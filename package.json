@@ -1,8 +1,8 @@
 {
-  "name": "medical-term-app",
+  "name": "medical-term",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/medical-term-app",
+  "homepage": "/medical-term",
   "dependencies": {
     "@chakra-ui/icons": "^2.2.4",
     "@chakra-ui/react": "^2.10.2",
