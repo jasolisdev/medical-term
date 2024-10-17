@@ -62,7 +62,7 @@ function App() {
         <HStack spacing="4">
           <Box boxSize={{ base: "70px", md: "40px" }} mt="2">
             <img
-              src="/medical-term-app/images/book-cover.jpg"
+              src="/medical-term/images/book-cover.jpg"
               alt="Book Cover"
               style={{ width: "100%", height: "auto" }}
             />
