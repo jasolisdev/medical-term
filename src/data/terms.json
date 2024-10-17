@@ -3608,361 +3608,421 @@
     "term": "aerophagia",
     "definition": "The excessive swallowing of air while eating or drinking.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "ayr-oh-FAY-jee-ah"
+    "pronunciation": "ayr-oh-FAY-jee-ah",
+    "audioFile": "/public/audio/ch8_audio/aerophagia.mp3"
   },
   {
     "term": "anastomosis",
     "definition": "A surgical connection between two hollow or tubular structures.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "ah-nas-toh-MOH-sis"
+    "pronunciation": "ah-nas-toh-MOH-sis",
+    "audioFile": "/public/audio/ch8_audio/anastomosis.mp3"
   },
   {
     "term": "antiemetic",
     "definition": "A medication administered to prevent or relieve nausea and vomiting.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "an-tih-ee-MET-ick"
+    "pronunciation": "an-tih-ee-MET-ick",
+    "audioFile": "/public/audio/ch8_audio/antiemetic.mp3"
   },
   {
     "term": "ascites",
     "definition": "An abnormal accumulation of serous fluid in the peritoneal cavity.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "ah-SIGH-teez"
+    "pronunciation": "ah-SIGH-teez",
+    "audioFile": "/public/audio/ch8_audio/ascites.mp3"
   },
   {
     "term": "bariatrics",
     "definition": "The branch of medicine concerned with the prevention and control of obesity and associated diseases.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "bayr-ee-AT-ricks"
+    "pronunciation": "bayr-ee-AT-ricks",
+    "audioFile": "/public/audio/ch8_audio/bariatrics.mp3"
   },
   {
     "term": "borborygmus",
     "definition": "The rumbling noise caused by the movement of gas in the intestine.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "bor-boh-RIG-mus"
+    "pronunciation": "bor-boh-RIG-mus",
+    "audioFile": "/public/audio/ch8_audio/borborygmus.mp3"
   },
   {
     "term": "cachexia",
     "definition": "A condition of physical wasting away due to the loss of weight and muscle mass.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "kah-KEKS-eeh-ah"
+    "pronunciation": "kah-KEKS-eeh-ah",
+    "audioFile": "/public/audio/ch8_audio/cachexia.mp3"
   },
   {
     "term": "canker sores",
     "definition": "Small, shallow ulcers that appear in the mouth and often make eating and talking uncomfortable.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "KANE-ker"
+    "pronunciation": "KANE-ker",
+    "audioFile": "/public/audio/ch8_audio/canker_sores.mp3"
   },
   {
     "term": "celiac disease",
     "definition": "An inherited autoimmune disorder characterized by a severe reaction to foods containing gluten.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "SEE-lee-ak"
+    "pronunciation": "SEE-lee-ak",
+    "audioFile": "/public/audio/ch8_audio/celiac_disease.mp3"
   },
   {
     "term": "cheilitis",
     "definition": "Inflammation of the lips.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "kye-LITE-is"
+    "pronunciation": "kye-LITE-is",
+    "audioFile": "/public/audio/ch8_audio/cheilitis.mp3"
   },
   {
     "term": "cholangiography",
     "definition": "A radiographic examination of the bile ducts with the use of a contrast medium.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "koh-LAN-jee-og-rah-fee"
+    "pronunciation": "koh-LAN-jee-og-rah-fee",
+    "audioFile": "/public/audio/ch8_audio/cholangiography.mp3"
   },
   {
     "term": "cholangitis",
     "definition": "An acute infection of the bile duct characterized by pain in the upper-right quadrant of the abdomen, fever, and jaundice.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "koh-lan-JIGH-tis"
+    "pronunciation": "koh-lan-JIGH-tis",
+    "audioFile": "/public/audio/ch8_audio/cholangitis.mp3"
   },
   {
     "term": "cholecystectomy",
     "definition": "The surgical removal of the gallbladder.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "koh-luh-sis-TECK-toh-mee"
+    "pronunciation": "koh-luh-sis-TECK-toh-mee",
+    "audioFile": "/public/audio/ch8_audio/cholecystectomy.mp3"
   },
   {
     "term": "cholecystitis",
     "definition": "Inflammation of the gallbladder.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "koh-luh-sis-TYE-tis"
+    "pronunciation": "koh-luh-sis-TYE-tis",
+    "audioFile": "/public/audio/ch8_audio/cholecystitis.mp3"
   },
   {
     "term": "cholelithiasis",
     "definition": "The presence of gallstones in the gallbladder or bile ducts.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "koh-luh-lih-THIGH-ah-sis"
+    "pronunciation": "koh-luh-lih-THIGH-ah-sis",
+    "audioFile": "/public/audio/ch8_audio/cholelithiasis.mp3"
   },
   {
     "term": "cirrhosis",
     "definition": "A chronic degenerative disease of the liver characterized by scarring.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "sih-ROH-sis"
+    "pronunciation": "sih-ROH-sis",
+    "audioFile": "/public/audio/ch8_audio/cirrhosis.mp3"
   },
   {
     "term": "colonoscopy",
     "definition": "The direct visual examination of the inner surface of the colon using a colonoscope.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "koh-lun-OSS-koh-pee"
+    "pronunciation": "koh-lun-OSS-koh-pee",
+    "audioFile": "/public/audio/ch8_audio/colonoscopy.mp3"
   },
   {
     "term": "colostomy",
     "definition": "The surgical creation of an artificial excretory opening between the colon and the body surface.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "koh-LAHS-toh-mee"
+    "pronunciation": "koh-LAHS-toh-mee",
+    "audioFile": "/public/audio/ch8_audio/colostomy.mp3"
   },
   {
     "term": "Crohn’s disease",
     "definition": "A chronic autoimmune disorder that can occur anywhere in the digestive tract; however, it is most commonly found in the ileum and in the colon.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "KROHNZ"
+    "pronunciation": "KROHNZ",
+    "audioFile": "/public/audio/ch8_audio/crohns_disease.mp3"
   },
   {
     "term": "dental prophylaxis",
     "definition": "The professional cleaning of the teeth to remove plaque and calculus.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "proh-fih-LACK-sis"
+    "pronunciation": "proh-fih-LACK-sis",
+    "audioFile": "/public/audio/ch8_audio/dental_prophylaxis.mp3"
   },
   {
     "term": "diverticulitis",
     "definition": "The inflammation of one or more diverticula in the colon.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "dye-ver-tick-you-LYE-tis"
+    "pronunciation": "dye-ver-tick-you-LYE-tis",
+    "audioFile": "/public/audio/ch8_audio/diverticulitis.mp3"
   },
   {
     "term": "diverticulosis",
     "definition": "The chronic presence of an abnormal number of diverticula in the colon.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "dye-ver-tick-you-LOH-sis"
+    "pronunciation": "dye-ver-tick-you-LOH-sis",
+    "audioFile": "/public/audio/ch8_audio/diverticulosis.mp3"
   },
   {
     "term": "dyspepsia",
     "definition": "Pain or discomfort in digestion, commonly known as indigestion.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "dis-PEP-see-ah"
+    "pronunciation": "dis-PEP-see-ah",
+    "audioFile": "/public/audio/ch8_audio/dyspepsia.mp3"
   },
   {
     "term": "dysphagia",
     "definition": "Difficulty in swallowing.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "dis-FAY-jee-ah"
+    "pronunciation": "dis-FAY-jee-ah",
+    "audioFile": "/public/audio/ch8_audio/dysphagia.mp3"
   },
   {
     "term": "endoscopy",
     "definition": "The visual examination of the interior of a body cavity or organ by means of an endoscope.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "en-DOS-koh-pee"
+    "pronunciation": "en-DOS-koh-pee",
+    "audioFile": "/public/audio/ch8_audio/endoscopy.mp3"
   },
   {
     "term": "enema",
     "definition": "The placement of a solution into the rectum and colon to empty the lower intestine through bowel activity.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "EH-neh-ma"
+    "pronunciation": "EH-neh-ma",
+    "audioFile": "/public/audio/ch8_audio/enema.mp3"
   },
   {
     "term": "enteritis",
     "definition": "Inflammation of the small intestine caused by eating or drinking substances contaminated with viral and bacterial pathogens.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "en-ter-EYE-tis"
+    "pronunciation": "en-ter-EYE-tis",
+    "audioFile": "/public/audio/ch8_audio/enteritis.mp3"
   },
   {
     "term": "eructation",
     "definition": "The act of belching or raising gas orally from the stomach.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "eh-ruk-TAY-shun"
+    "pronunciation": "eh-ruk-TAY-shun",
+    "audioFile": "/public/audio/ch8_audio/eructation.mp3"
   },
   {
     "term": "esophageal varices",
     "definition": "Enlarged and swollen veins at the lower end of the esophagus.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "eh-sof-ah-JEE-al VAYR-ih-seez"
+    "pronunciation": "eh-sof-ah-JEE-al VAYR-ih-seez",
+    "audioFile": "/public/audio/ch8_audio/esophageal_varices.mp3"
   },
   {
     "term": "esophagogastroduodenoscopy",
     "definition": "An endoscopic procedure that allows direct visualization of the upper GI tract.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "eh-sof-ah-goh-gas-troh-dew-oh-deh-NOS-koh-pee"
+    "pronunciation": "eh-sof-ah-goh-gas-troh-dew-oh-deh-NOS-koh-pee",
+    "audioFile": "/public/audio/ch8_audio/esophagogastroduodenoscopy.mp3"
   },
   {
     "term": "gastroduodenostomy",
     "definition": "The establishment of an anastomosis between the upper portion of the stomach and the duodenum.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "gas-troh-dew-oh-deh-NOS-toh-mee"
+    "pronunciation": "gas-troh-dew-oh-deh-NOS-toh-mee",
+    "audioFile": "/public/audio/ch8_audio/gastroduodenostomy.mp3"
   },
   {
     "term": "gastroesophageal reflux disease",
     "definition": "The upward flow of acid from the stomach into the esophagus.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "gas-troh-eh-sof-ah-JEE-al REE-flucks"
+    "pronunciation": "gas-troh-eh-sof-ah-JEE-al REE-flucks",
+    "audioFile": "/public/audio/ch8_audio/gastroesophageal_reflux_disease.mp3"
   },
   {
     "term": "gastroparesis",
     "definition": "A condition in which the muscles in the stomach slow down and work poorly or not at all.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "gas-troh-pah-REE-sis"
+    "pronunciation": "gas-troh-pah-REE-sis",
+    "audioFile": "/public/audio/ch8_audio/gastroparesis.mp3"
   },
   {
     "term": "gastrostomy tube",
     "definition": "A surgically placed feeding tube from the exterior of the body directly into the stomach.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "gas-TROS-toh-mee"
+    "pronunciation": "gas-TROS-toh-mee",
+    "audioFile": "/public/audio/ch8_audio/gastrostomy.mp3"
   },
   {
     "term": "hematemesis",
     "definition": "Vomiting blood.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "hee-mah-TEM-eh-sis"
+    "pronunciation": "hee-mah-TEM-eh-sis",
+    "audioFile": "/public/audio/ch8_audio/hematemesis.mp3"
   },
   {
     "term": "Hemoccult test",
     "definition": "A laboratory test for hidden blood in the stools.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "HEE-moh-kult"
+    "pronunciation": "HEE-moh-kult",
+    "audioFile": "/public/audio/ch8_audio/hemoccult_test.mp3"
   },
   {
     "term": "hepatitis",
     "definition": "Inflammation of the liver.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "hep-ah-TYE-tis"
+    "pronunciation": "hep-ah-TYE-tis",
+    "audioFile": "/public/audio/ch8_audio/hepatitis.mp3"
   },
   {
     "term": "hiatal hernia",
     "definition": "The protrusion of part of the stomach through an opening in the diaphragm.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "high-AY-tal HER-nee-ah"
+    "pronunciation": "high-AY-tal HER-nee-ah",
+    "audioFile": "/public/audio/ch8_audio/hiatal_hernia.mp3"
   },
   {
     "term": "hyperemesis",
     "definition": "Extreme, persistent vomiting that can cause dehydration.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "high-per-EM-eh-sis"
+    "pronunciation": "high-per-EM-eh-sis",
+    "audioFile": "/public/audio/ch8_audio/hyperemesis.mp3"
   },
   {
     "term": "ileus",
     "definition": "The partial or complete blockage of the small or large intestine.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "ILL-ee-us"
+    "pronunciation": "ILL-ee-us",
+    "audioFile": "/public/audio/ch8_audio/ileus.mp3"
   },
   {
     "term": "inguinal hernia",
     "definition": "The protrusion of a small loop of bowel through a weak place in the lower abdominal wall or groin.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "ING-gwih-nal HER-nee-ah"
+    "pronunciation": "ING-gwih-nal HER-nee-ah",
+    "audioFile": "/public/audio/ch8_audio/inguinal_hernia.mp3"
   },
   {
     "term": "jaundice",
     "definition": "A yellow discoloration of the skin, mucous membranes, and the eyes caused by greater-than-normal amounts of bilirubin in the blood.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "JAWN-dis"
+    "pronunciation": "JAWN-dis",
+    "audioFile": "/public/audio/ch8_audio/jaundice.mp3"
   },
   {
     "term": "leukoplakia",
     "definition": "An abnormal white precancerous lesion (sore) that develops on the tongue or the inside of the cheek.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "loo-koh-PLAY-kee-ah"
+    "pronunciation": "loo-koh-PLAY-kee-ah",
+    "audioFile": "/public/audio/ch8_audio/leukoplakia.mp3"
   },
   {
     "term": "malocclusion",
     "definition": "Any deviation from the normal positioning of the upper teeth against the lower teeth.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "mal-oh-KLOO-zhun"
+    "pronunciation": "mal-oh-KLOO-zhun",
+    "audioFile": "/public/audio/ch8_audio/malocclusion.mp3"
   },
   {
     "term": "melena",
     "definition": "The passage of black, tarry, and foul-smelling stools.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "meh-LEE-nah"
+    "pronunciation": "meh-LEE-nah",
+    "audioFile": "/public/audio/ch8_audio/melena.mp3"
   },
   {
     "term": "nasogastric intubation",
     "definition": "The placement of a feeding tube through the nose and into the stomach.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "nay-zoh-GAS-trick in-too-BAY-shun"
+    "pronunciation": "nay-zoh-GAS-trick in-too-BAY-shun",
+    "audioFile": "/public/audio/ch8_audio/nasogastric_intubation.mp3"
   },
   {
     "term": "obesity",
     "definition": "An excessive accumulation of fat in the body.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "oh-BEE-sih-tee"
+    "pronunciation": "oh-BEE-sih-tee",
+    "audioFile": "/public/audio/ch8_audio/obesity.mp3"
   },
   {
     "term": "palatoplasty",
     "definition": "Surgical repair of a cleft palate, also used to refer to the repair of a cleft lip.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "PAL-ah-toh-plas-tee"
+    "pronunciation": "PAL-ah-toh-plas-tee",
+    "audioFile": "/public/audio/ch8_audio/palatoplasty.mp3"
   },
   {
     "term": "peptic ulcer disease",
     "definition": "Sores that affect the mucous membranes of the digestive system.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "UL-ser"
+    "pronunciation": "UL-ser",
+    "audioFile": "/public/audio/ch8_audio/peptic_ulcer_disease.mp3"
   },
   {
     "term": "peristalsis",
     "definition": "A series of wave-like contractions of the smooth muscles in a single direction that moves food forward into the digestive system.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "pehr-ih-STAL-sis"
+    "pronunciation": "pehr-ih-STAL-sis",
+    "audioFile": "/public/audio/ch8_audio/peristalsis.mp3"
   },
   {
     "term": "polyp",
     "definition": "A mushroom-like growth from the surface of a mucous membrane.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "POL-up"
+    "pronunciation": "POL-up",
+    "audioFile": "/public/audio/ch8_audio/polyp.mp3"
   },
   {
     "term": "proctologist",
     "definition": "A physician who specializes in disorders of the colon, rectum, and anus.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "prock-TOL-oh-jist"
+    "pronunciation": "prock-TOL-oh-jist",
+    "audioFile": "/public/audio/ch8_audio/proctologist.mp3"
   },
   {
     "term": "regurgitation",
     "definition": "The return of swallowed food into the mouth.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "ree-gur-jih-TAY-shun"
+    "pronunciation": "ree-gur-jih-TAY-shun",
+    "audioFile": "/public/audio/ch8_audio/regurgitation.mp3"
   },
   {
     "term": "salmonellosis",
     "definition": "An infectious disease of the intestines that is transmitted by food contaminated with feces.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "sal-moh-nel-LOH-sis"
+    "pronunciation": "sal-moh-nel-LOH-sis",
+    "audioFile": "/public/audio/ch8_audio/salmonellosis.mp3"
   },
   {
     "term": "sigmoidoscopy",
     "definition": "The endoscopic examination of the interior of the rectum, sigmoid colon, and possibly a portion of the descending colon.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "sig-moi-DOS-koh-pee"
+    "pronunciation": "sig-moi-DOS-koh-pee",
+    "audioFile": "/public/audio/ch8_audio/sigmoidoscopy.mp3"
   },
   {
     "term": "stomatitis",
     "definition": "Inflammation of the mucosa of the mouth.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "stoh-mah-TYE-tis"
+    "pronunciation": "stoh-mah-TYE-tis",
+    "audioFile": "/public/audio/ch8_audio/stomatitis.mp3"
   },
   {
     "term": "trismus",
     "definition": "Any restriction to the opening of the mouth caused by trauma, surgery, or radiation associated with the treatment of oral cancer.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "TRIZ-mus"
+    "pronunciation": "TRIZ-mus",
+    "audioFile": "/public/audio/ch8_audio/trismus.mp3"
   },
   {
     "term": "ulcerative colitis",
     "definition": "A chronic condition of unknown cause in which repeated episodes of inflammation in the rectum and large intestine cause ulcers and irritation.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "UL-ser-ay-tiv koh-LYE-tis"
+    "pronunciation": "UL-ser-ay-tiv koh-LYE-tis",
+    "audioFile": "/public/audio/ch8_audio/ulcerative_colitis.mp3"
   },
   {
     "term": "volvulus",
     "definition": "The twisting of the intestine on itself, causing an obstruction.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "VOL-view-lus"
+    "pronunciation": "VOL-view-lus",
+    "audioFile": "/public/audio/ch8_audio/volvulus.mp3"
   },
   {
     "term": "xerostomia",
     "definition": "The lack of adequate saliva due to diminished secretions by the salivary glands.",
     "category": "Ch8 The Digestive System",
-    "pronunciation": "zeer-oh-STOH-mee-ah"
+    "pronunciation": "zeer-oh-STOH-mee-ah",
+    "audioFile": "/public/audio/ch8_audio/xerostomia.mp3"
   },
   {
     "term": "an/o",
@@ -4064,355 +4124,407 @@
     "term": "ablation",
     "definition": "The removal of a body part or the destruction of its function.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "ab-LAY-shun"
+    "pronunciation": "ab-LAY-shun",
+    "audioFile": "/public/audio/ch9_audio/ablation.mp3"
   },
   {
     "term": "acute renal failure",
     "definition": "The sudden onset of kidney failure or kidney damage.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch9_audio/acute_renal_failure.mp3"
   },
   {
     "term": "anuria",
     "definition": "The absence of urine formation by the kidneys.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "ah-NEW-ree-ah"
+    "pronunciation": "ah-NEW-ree-ah",
+    "audioFile": "/public/audio/ch9_audio/anuria.mp3"
   },
   {
     "term": "benign prostatic hyperplasia",
     "definition": "An enlargement of the prostate gland commonly found in men over the age of 50.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch9_audio/benign_prostatic_hyperplasia.mp3"
   },
   {
     "term": "chronic kidney disease",
     "definition": "The progressive loss of renal function over months or years.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch9_audio/chronic_kidney_disease.mp3"
   },
   {
     "term": "cystitis",
     "definition": "Inflammation of the bladder.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "sis-TYE-tis"
+    "pronunciation": "sis-TYE-tis",
+    "audioFile": "/public/audio/ch9_audio/cystitis.mp3"
   },
   {
     "term": "cystocele",
     "definition": "A hernia of the bladder through the vaginal wall.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "SIS-toh-seel"
+    "pronunciation": "SIS-toh-seel",
+    "audioFile": "/public/audio/ch9_audio/cystocele.mp3"
   },
   {
     "term": "cystolith",
     "definition": "A stone located within the urinary bladder.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "SIS-toh-lith"
+    "pronunciation": "SIS-toh-lith",
+    "audioFile": "/public/audio/ch9_audio/cystolith.mp3"
   },
   {
     "term": "cystoscopy",
     "definition": "The visual examination of the urinary bladder using a cystoscope.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "sis-TOS-koh-pee"
+    "pronunciation": "sis-TOS-koh-pee",
+    "audioFile": "/public/audio/ch9_audio/cystoscopy.mp3"
   },
   {
     "term": "dialysis",
     "definition": "A procedure to remove waste products from the blood when the kidneys are not functioning properly.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "dye-AL-ih-sis"
+    "pronunciation": "dye-AL-ih-sis",
+    "audioFile": "/public/audio/ch9_audio/dialysis.mp3"
   },
   {
     "term": "diuresis",
     "definition": "The increased output of urine.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "dye-you-REE-sis"
+    "pronunciation": "dye-you-REE-sis",
+    "audioFile": "/public/audio/ch9_audio/diuresis.mp3"
   },
   {
     "term": "dysuria",
     "definition": "Difficult or painful urination.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "dis-YOU-ree-ah"
+    "pronunciation": "dis-YOU-ree-ah",
+    "audioFile": "/public/audio/ch9_audio/dysuria.mp3"
   },
   {
     "term": "ectopic kidney",
     "definition": "A kidney that is not located in its usual position.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch9_audio/ectopic_kidney.mp3"
   },
   {
     "term": "edema",
     "definition": "Swelling caused by an abnormal accumulation of fluid in cells, tissues, or cavities of the body.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "eh-DEE-mah"
+    "pronunciation": "eh-DEE-mah",
+    "audioFile": "/public/audio/ch9_audio/edema.mp3"
   },
   {
     "term": "end-stage renal disease",
     "definition": "The final stage of chronic kidney disease.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch9_audio/end_stage_renal_disease.mp3"
   },
   {
     "term": "epispadias",
     "definition": "A congenital abnormality of the urethral opening.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "ep-ih-SPAY-dee-as"
+    "pronunciation": "ep-ih-SPAY-dee-as",
+    "audioFile": "/public/audio/ch9_audio/epispadias.mp3"
   },
   {
     "term": "extracorporeal shockwave lithotripsy",
     "definition": "The destruction of kidney stones with the use of ultrasonic waves traveling through water or gel.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "ecks-trah-kor-POUR-ee-al shock-wayv LITH-oh-trip-see"
+    "pronunciation": "ecks-trah-kor-POUR-ee-al shock-wayv LITH-oh-trip-see",
+    "audioFile": "/public/audio/ch9_audio/extracorporeal_shockwave_lithotripsy.mp3"
   },
   {
     "term": "glomerulonephritis",
     "definition": "A type of kidney disease caused by inflammation of the glomeruli.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "gloh-mer-you-loh-neh-FRY-tis"
+    "pronunciation": "gloh-mer-you-loh-neh-FRY-tis",
+    "audioFile": "/public/audio/ch9_audio/glomerulonephritis.mp3"
   },
   {
     "term": "hemodialysis",
     "definition": "A procedure that filters waste products directly from the patient's blood to replace the function of damaged kidneys.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "hee-moh-dye-AL-ih-sis"
+    "pronunciation": "hee-moh-dye-AL-ih-sis",
+    "audioFile": "/public/audio/ch9_audio/hemodialysis.mp3"
   },
   {
     "term": "hydronephrosis",
     "definition": "The dilation of one or both kidneys.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "high-droh-neh-FROH-sis"
+    "pronunciation": "high-droh-neh-FROH-sis",
+    "audioFile": "/public/audio/ch9_audio/hydronephrosis.mp3"
   },
   {
     "term": "hydroureter",
     "definition": "The distention of the ureter with urine that cannot flow because the ureter is blocked.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "high-droh-YOUR-eh-ter"
+    "pronunciation": "high-droh-YOUR-eh-ter",
+    "audioFile": "/public/audio/ch9_audio/hydroureter.mp3"
   },
   {
     "term": "hyperproteinuria",
     "definition": "The presence of abnormally high concentrations of protein in the urine.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "high-per-proh-tee-in-YOU-ree-ah"
+    "pronunciation": "high-per-proh-tee-in-YOU-ree-ah",
+    "audioFile": "/public/audio/ch9_audio/hyperproteinuria.mp3"
   },
   {
     "term": "hypoproteinemia",
     "definition": "The presence of abnormally low concentrations of protein in the blood.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch9_audio/hypoproteinemia.mp3"
   },
   {
     "term": "hypospadias",
     "definition": "A congenital abnormality in males in which the urethral opening is on the underside of the penis.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "high-poh-SPAY-dee-as"
+    "pronunciation": "high-poh-SPAY-dee-as",
+    "audioFile": "/public/audio/ch9_audio/hypospadias.mp3"
   },
   {
     "term": "incontinence",
     "definition": "The inability to control the excretion of urine, feces, or both.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "in-KON-tih-nents"
-  },
-  {
-    "term": "interstitial cystitis",
-    "definition": "A chronic inflammation within the walls of the bladder.",
-    "category": "Ch9 The Urinary System",
-    "pronunciation": "in-ter-STISH-al sis-TYE-tis"
+    "pronunciation": "in-KON-tih-nents",
+    "audioFile": "/public/audio/ch9_audio/incontinence.mp3"
   },
   {
     "term": "intravenous pyelogram",
     "definition": "A radiographic study of the kidneys and ureters.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "PYE-eh-loh-gram"
+    "pronunciation": "PYE-eh-loh-gram",
+    "audioFile": "/public/audio/ch9_audio/intravenous_pyelogram.mp3"
   },
   {
     "term": "nephrolith",
     "definition": "A kidney stone.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "NEF-roh-lith"
+    "pronunciation": "NEF-roh-lith",
+    "audioFile": "/public/audio/ch9_audio/nephrolith.mp3"
   },
   {
     "term": "nephrolithiasis",
     "definition": "The presence of stones in the kidney.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "nef-roh-lih-THIGH-ah-sis"
+    "pronunciation": "nef-roh-lih-THIGH-ah-sis",
+    "audioFile": "/public/audio/ch9_audio/nephrolithiasis.mp3"
   },
   {
     "term": "nephrolysis",
     "definition": "The surgical freeing of a kidney from adhesions.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "neh-FROL-ih-sis"
+    "pronunciation": "neh-FROL-ih-sis",
+    "audioFile": "/public/audio/ch9_audio/nephrolysis.mp3"
   },
   {
     "term": "nephrons",
     "definition": "The microscopic functional units of each kidney.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "NEF-ronz"
+    "pronunciation": "NEF-ronz",
+    "audioFile": "/public/audio/ch9_audio/nephrons.mp3"
   },
   {
     "term": "nephropathy",
     "definition": "Any disease of the kidney.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "neh-FROP-ah-thee"
+    "pronunciation": "neh-FROP-ah-thee",
+    "audioFile": "/public/audio/ch9_audio/nephropathy.mp3"
   },
   {
     "term": "nephrostomy",
     "definition": "The placement of a catheter to maintain an opening from the pelvis of one or both kidneys to the exterior of the body.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "neh-FROS-toh-me"
+    "pronunciation": "neh-FROS-toh-me",
+    "audioFile": "/public/audio/ch9_audio/nephrostomy.mp3"
   },
   {
     "term": "nephrotic syndrome",
     "definition": "A group of conditions in which excessive amounts of protein are lost through the urine.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "neh-FROT-ick"
+    "pronunciation": "neh-FROT-ick",
+    "audioFile": "/public/audio/ch9_audio/nephrotic_syndrome.mp3"
   },
   {
     "term": "neurogenic bladder",
     "definition": "A urinary problem caused by interference with the normal nerve pathways associated with urination.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "new-roh-JEN-ick"
+    "pronunciation": "new-roh-JEN-ick",
+    "audioFile": "/public/audio/ch9_audio/neurogenic_bladder.mp3"
   },
   {
     "term": "nocturia",
     "definition": "Excessive urination during the night.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "nock-TOO-ree-ah"
+    "pronunciation": "nock-TOO-ree-ah",
+    "audioFile": "/public/audio/ch9_audio/nocturia.mp3"
   },
   {
     "term": "nocturnal enuresis",
     "definition": "Urinary incontinence during sleep, also known as bed-wetting.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "en-you-REE-sis"
+    "pronunciation": "en-you-REE-sis",
+    "audioFile": "/public/audio/ch9_audio/nocturnal_enuresis.mp3"
   },
   {
     "term": "oliguria",
     "definition": "Scanty urination.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "ol-ih-GOO-ree-ah"
+    "pronunciation": "ol-ih-GOO-ree-ah",
+    "audioFile": "/public/audio/ch9_audio/oliguria.mp3"
   },
   {
     "term": "percutaneous nephrolithotomy",
     "definition": "The surgical removal of a nephrolith through a small incision in the back.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "per-kyou-TAY-nee-us nef-roh-lih-THOT-oh-mee"
+    "pronunciation": "per-kyou-TAY-nee-us nef-roh-lih-THOT-oh-mee",
+    "audioFile": "/public/audio/ch9_audio/percutaneous_nephrolithotomy.mp3"
   },
   {
     "term": "peritoneal dialysis",
     "definition": "Dialysis in which the lining of the peritoneal cavity acts as the filter to remove waste from the blood.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "pehr-ih-toh-NEE-al dye-AL-ih-sis"
+    "pronunciation": "pehr-ih-toh-NEE-al dye-AL-ih-sis",
+    "audioFile": "/public/audio/ch9_audio/peritoneal_dialysis.mp3"
   },
   {
     "term": "polycystic kidney disease",
     "definition": "A genetic disorder characterized by the growth of numerous fluid-filled cysts in the kidneys.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "pol-ee-SIS-tick"
+    "pronunciation": "pol-ee-SIS-tick",
+    "audioFile": "/public/audio/ch9_audio/polycystic_kidney_disease.mp3"
   },
   {
     "term": "polyuria",
     "definition": "Excessive urination.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "pol-ee-YOU-ree-ah"
+    "pronunciation": "pol-ee-YOU-ree-ah",
+    "audioFile": "/public/audio/ch9_audio/polyuria.mp3"
   },
   {
     "term": "prostatism",
     "definition": "A disorder resulting from the compression or obstruction of the urethra due to benign prostatic hyperplasia.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "PROS-tah-tizm"
+    "pronunciation": "PROS-tah-tizm",
+    "audioFile": "/public/audio/ch9_audio/prostatism.mp3"
   },
   {
     "term": "pyelonephritis",
     "definition": "An inflammation of both the renal pelvis and the kidney.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "pye-eh-loh-neh-FRY-tis"
+    "pronunciation": "pye-eh-loh-neh-FRY-tis",
+    "audioFile": "/public/audio/ch9_audio/pyelonephritis.mp3"
   },
   {
     "term": "pyelotomy",
     "definition": "A surgical incision into the renal pelvis.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "pye-eh-LOT-oh-mee"
+    "pronunciation": "pye-eh-LOT-oh-mee",
+    "audioFile": "/public/audio/ch9_audio/pyelotomy.mp3"
   },
   {
     "term": "renal colic",
     "definition": "An acute pain in the kidney area that is caused by blockage during the passage of a kidney stone.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch9_audio/renal_colic.mp3"
   },
   {
     "term": "suprapubic catheterization",
     "definition": "The placement of a catheter into the bladder through a small incision made through the abdominal wall just above the pubic bone.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "soo-prah-PYOU-bick kath-eh-ter-eye-ZAY-shun"
+    "pronunciation": "soo-prah-PYOU-bick kath-eh-ter-eye-ZAY-shun",
+    "audioFile": "/public/audio/ch9_audio/suprapubic_catheterization.mp3"
   },
   {
     "term": "transurethral prostatectomy",
     "definition": "The removal of excess tissue from an enlarged prostate gland with the use of a resectoscope.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch9_audio/transurethral_prostatectomy.mp3"
   },
   {
     "term": "uremia",
     "definition": "A toxic condition resulting from renal failure in which kidney function is compromised and urea is retained in the blood.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "you-REE-mee-ah"
+    "pronunciation": "you-REE-mee-ah",
+    "audioFile": "/public/audio/ch9_audio/uremia.mp3"
   },
   {
     "term": "ureterolith",
     "definition": "A stone located in a ureter.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "you-REE-ter-oh-lith"
+    "pronunciation": "you-REE-ter-oh-lith",
+    "audioFile": "/public/audio/ch9_audio/ureterolith.mp3"
   },
   {
     "term": "ureterorrhagia",
     "definition": "The discharge of blood from a ureter.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "you-ree-ter-oh-RAY-jee-ah"
+    "pronunciation": "you-ree-ter-oh-RAY-jee-ah",
+    "audioFile": "/public/audio/ch9_audio/ureterorrhagia.mp3"
   },
   {
     "term": "urethritis",
     "definition": "Inflammation of the urethra.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "you-reh-THRIGH-tis"
+    "pronunciation": "you-reh-THRIGH-tis",
+    "audioFile": "/public/audio/ch9_audio/urethritis.mp3"
   },
   {
     "term": "urethroplasty",
     "definition": "Surgical repair of damage or a defect in the walls of the urethra.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "you-REE-throh-plas-tee"
+    "pronunciation": "you-REE-throh-plas-tee",
+    "audioFile": "/public/audio/ch9_audio/urethroplasty.mp3"
   },
   {
-    "term": "urethrorraphy",
+    "term": "urethrorrhagia",
     "definition": "Surgical suturing of the urethra.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "you-REE-throh-RAF-ee"
+    "pronunciation": "you-REE-throh-RAF-ee",
+    "audioFile": "/public/audio/ch9_audio/urethrorrhagia.mp3"
   },
   {
     "term": "urethrotomy",
     "definition": "A surgical incision into the urethra.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "you-reh-THROT-oh-mee"
+    "pronunciation": "you-reh-THROT-oh-mee",
+    "audioFile": "/public/audio/ch9_audio/urethrotomy.mp3"
   },
   {
     "term": "urinary catheterization",
     "definition": "The insertion of a tube into the bladder to procure a sterile specimen for diagnostic purposes, or to drain urine.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch9_audio/urinary_catheterization.mp3"
   },
   {
     "term": "vesicovaginal fistula",
     "definition": "An abnormal opening between the bladder and the vagina.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "ves-ih-koh-VAJ-ih-nahl FIS-tyou-lah"
+    "pronunciation": "ves-ih-koh-VAJ-ih-nahl FIS-tyou-lah",
+    "audioFile": "/public/audio/ch9_audio/vesicovaginal_fistula.mp3"
   },
   {
     "term": "voiding cystourethrography",
     "definition": "A diagnostic procedure in which a fluoroscope is used to examine the flow of urine from the bladder and through the urethra.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": "sis-toh-you-ree-THROG-rah-fee"
+    "pronunciation": "sis-toh-you-ree-THROG-rah-fee",
+    "audioFile": "/public/audio/ch9_audio/voiding_cystourethrography.mp3"
   },
   {
     "term": "Wilms tumor",
     "definition": "A rare type of malignant tumor of the kidney that occurs in young children.",
     "category": "Ch9 The Urinary System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch9_audio/wilms_tumor.mp3"
   },
   {
     "term": "-cele",
@@ -4508,55 +4620,64 @@
     "term": "acrophobia",
     "definition": "An excessive fear of heights.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "ack-roh-FOH-bee-ah"
+    "pronunciation": "ack-roh-FOH-bee-ah",
+    "audioFile": "/public/audio/ch10_audio/acrophobia.mp3"
   },
   {
-    "term": "Alzheimer’s disease",
+    "term": "Alzheimer\u2019s disease",
     "definition": "A progressive disorder that causes brain cells to waste away and die, leading to memory loss and cognitive decline.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "ALTZ-high-merz"
+    "pronunciation": "ALTZ-high-merz",
+    "audioFile": "/public/audio/ch10_audio/alzheimers_disease.mp3"
   },
   {
     "term": "amyotrophic lateral sclerosis",
     "definition": "A neurodegenerative disease that affects nerve cells in the brain and the spinal cord, commonly known as Lou Gehrig's disease.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "ah-my-oh-TROH-fick LAT-er-al skleh-ROH-sis"
+    "pronunciation": "ah-my-oh-TROH-fick LAT-er-al skleh-ROH-sis",
+    "audioFile": "/public/audio/ch10_audio/amyotrophic_lateral_sclerosis.mp3"
   },
   {
     "term": "anesthetic",
     "definition": "A drug that causes temporary loss of bodily sensations.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "an-es-THET-ick"
+    "pronunciation": "an-es-THET-ick",
+    "audioFile": "/public/audio/ch10_audio/anesthetic.mp3"
   },
   {
     "term": "anesthetist",
     "definition": "A medical professional who specializes in administering anesthesia.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "ah-NES-theh-tist"
+    "pronunciation": "ah-NES-theh-tist",
+    "audioFile": "/public/audio/ch10_audio/anesthetist.mp3"
   },
   {
     "term": "anorexia nervosa",
     "definition": "An eating disorder characterized by a false perception of body appearance.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "an-oh-RECK-see-ah ner-VOH-sah"
+    "pronunciation": "an-oh-RECK-see-ah ner-VOH-sah",
+    "audioFile": "/public/audio/ch10_audio/anorexia_nervosa.mp3"
   },
   {
-    "term": "anxiety disorders",
+    "term": "anxiety disorder",
     "definition": "Mental health disorders characterized by excessive fear or worry.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch10_audio/anxiety_disorder.mp3"
   },
   {
     "term": "autism spectrum disorder",
     "definition": "A developmental disorder characterized by challenges with social skills, repetitive behaviors, and communication.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "AW-tizm"
+    "pronunciation": "AW-tizm",
+    "audioFile": "/public/audio/ch10_audio/autism_spectrum_disorder.mp3"
   },
   {
-    "term": "Bell’s palsy",
+    "term": "Bell\u2019s palsy",
     "definition": "Temporary paralysis of the seventh cranial nerve causing facial drooping on one side.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "PAWL-zee"
+    "pronunciation": "PAWL-zee",
+    "audioFile": "/public/audio/ch10_audio/bells_palsy.mp3"
   },
   {
     "term": "carotid ultrasonography",
@@ -4568,301 +4689,351 @@
     "term": "causalgia",
     "definition": "Persistent, severe burning pain that usually follows an injury to a sensory nerve.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "kaw-ZAL-jee-ah"
+    "pronunciation": "kaw-ZAL-jee-ah",
+    "audioFile": "/public/audio/ch10_audio/causalgia.mp3"
   },
   {
     "term": "cerebral contusion",
     "definition": "A bruising of brain tissue as a result of a head injury.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "SER-eh-bral kon-TOO-zhun"
+    "pronunciation": "SER-eh-bral kon-TOO-zhun",
+    "audioFile": "/public/audio/ch10_audio/cerebral_contusion.mp3"
   },
   {
     "term": "cerebral palsy",
     "definition": "A condition caused by poor muscle control, spasticity, and other neurologic deficiencies due to damage that affects the cerebrum.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "seh-REE-bral PAWL-zee"
+    "pronunciation": "seh-REE-bral PAWL-zee",
+    "audioFile": "/public/audio/ch10_audio/cerebral_palsy.mp3"
   },
   {
     "term": "cerebrovascular accident",
     "definition": "Damage to the brain that occurs when the blood flow to the brain is disrupted by a blockage or a rupture, commonly known as a stroke.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "ser-eh-broh-VAS-kyou-lar"
+    "pronunciation": "ser-eh-broh-VAS-kyou-lar",
+    "audioFile": "/public/audio/ch10_audio/cerebrovascular_accident.mp3"
   },
   {
     "term": "cervical radiculopathy",
     "definition": "Nerve pain caused by pressure on the spinal nerve roots in the neck region.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "rah-dick-you-LOP-ah-thee"
+    "pronunciation": "rah-dick-you-LOP-ah-thee",
+    "audioFile": "/public/audio/ch10_audio/cervical_radiculopathy.mp3"
   },
   {
     "term": "claustrophobia",
     "definition": "An abnormal fear of being in narrow or enclosed spaces.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "klaws-troh-FOH-bee-ah"
+    "pronunciation": "klaws-troh-FOH-bee-ah",
+    "audioFile": "/public/audio/ch10_audio/claustrophobia.mp3"
   },
   {
     "term": "cognition",
     "definition": "The mental processes of perception, memory, judgment, and reasoning.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "kog-NISH-un"
+    "pronunciation": "kog-NISH-un",
+    "audioFile": "/public/audio/ch10_audio/cognition.mp3"
   },
   {
     "term": "coma",
     "definition": "A deep state of unconsciousness in which the individual cannot be awakened.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "KOH-mah"
+    "pronunciation": "KOH-mah",
+    "audioFile": "/public/audio/ch10_audio/coma.mp3"
   },
   {
     "term": "concussion",
     "definition": "A violent shaking up or jarring of the brain, typically caused by injury.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "kon-KUSH-un"
+    "pronunciation": "kon-KUSH-un",
+    "audioFile": "/public/audio/ch10_audio/concussion.mp3"
   },
   {
     "term": "cranial hematoma",
     "definition": "A collection of blood trapped in the tissues of the brain.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "hee-mah-TOH-mah"
+    "pronunciation": "hee-mah-TOH-mah",
+    "audioFile": "/public/audio/ch10_audio/cranial_hematoma.mp3"
   },
   {
     "term": "delirium",
     "definition": "An acute condition of confusion, disorientation, and agitation.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "deh-LEER-ee-um"
+    "pronunciation": "deh-LEER-ee-um",
+    "audioFile": "/public/audio/ch10_audio/delirium.mp3"
   },
   {
     "term": "delirium tremens",
     "definition": "A severe form of alcohol withdrawal involving sudden and severe mental or nervous system changes.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "deh-LEER-ee-um TREE-mens"
+    "pronunciation": "deh-LEER-ee-um TREE-mens",
+    "audioFile": "/public/audio/ch10_audio/delirium_tremens.mp3"
   },
   {
     "term": "delusion",
     "definition": "A false belief or opinion that is strongly held despite evidence to the contrary.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "dih-LOO-zhun"
+    "pronunciation": "dih-LOO-zhun",
+    "audioFile": "/public/audio/ch10_audio/delusion.mp3"
   },
   {
     "term": "dementia",
     "definition": "A slowly progressive decline in mental abilities, including memory, thinking, and judgment.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "dih-MEN-shah"
+    "pronunciation": "dih-MEN-shah",
+    "audioFile": "/public/audio/ch10_audio/dementia.mp3"
   },
   {
     "term": "dura mater",
     "definition": "The thick, tough, outermost membrane of the meninges.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "DOO-rah MAH-ter"
+    "pronunciation": "DOO-rah MAH-ter",
+    "audioFile": "/public/audio/ch10_audio/dura_mater.mp3"
   },
   {
     "term": "dyslexia",
     "definition": "A learning disability characterized by substandard reading achievement due to the brain's inability to process symbols.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "dis-LECK-see-ah"
+    "pronunciation": "dis-LECK-see-ah",
+    "audioFile": "/public/audio/ch10_audio/dyslexia.mp3"
   },
   {
     "term": "electroencephalography",
     "definition": "The process of recording the electrical activity of the brain through the use of electrodes attached to the scalp.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "ee-leck-troh-en-sef-ah-LOG-rah-fee"
+    "pronunciation": "ee-leck-troh-en-sef-ah-LOG-rah-fee",
+    "audioFile": "/public/audio/ch10_audio/electroencephalography.mp3"
   },
   {
     "term": "encephalitis",
     "definition": "An inflammation of the brain, usually caused by a viral infection.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "en-sef-ah-LYE-tis"
+    "pronunciation": "en-sef-ah-LYE-tis",
+    "audioFile": "/public/audio/ch10_audio/encephalitis.mp3"
   },
   {
     "term": "epidural anesthesia",
     "definition": "An anesthetic injected into the epidural space surrounding the spinal cord.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "ep-ih-DOO-ral an-es-THEE-zee-ah"
+    "pronunciation": "ep-ih-DOO-ral an-es-THEE-zee-ah",
+    "audioFile": "/public/audio/ch10_audio/epidural_anesthesia.mp3"
   },
   {
     "term": "epilepsy",
     "definition": "A chronic neurologic condition characterized by recurrent episodes of seizures.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "EP-ih-lep-see"
+    "pronunciation": "EP-ih-lep-see",
+    "audioFile": "/public/audio/ch10_audio/epilepsy.mp3"
   },
   {
     "term": "factitious disorder",
     "definition": "A condition in which a person acts as if they have a physical or mental illness when they are not really sick.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "fack-TISH-us"
+    "pronunciation": "fack-TISH-us",
+    "audioFile": "/public/audio/ch10_audio/factitious_disorder.mp3"
   },
   {
     "term": "hallucination",
     "definition": "A sensory perception experienced in the absence of an external stimulus.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "hah-loo-sih-NAY-shun"
+    "pronunciation": "hah-loo-sih-NAY-shun",
+    "audioFile": "/public/audio/ch10_audio/hallucination.mp3"
   },
   {
     "term": "hemorrhagic stroke",
     "definition": "A stroke caused by the rupture of a blood vessel in the brain, leading to bleeding.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "hem-oh-RAJ-ick"
+    "pronunciation": "hem-oh-RAJ-ick",
+    "audioFile": "/public/audio/ch10_audio/hemorrhagic_stroke.mp3"
   },
   {
     "term": "hydrocephalus",
     "definition": "A condition in which excess cerebrospinal fluid accumulates in the ventricles of the brain.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "high-droh-SEF-ah-lus"
+    "pronunciation": "high-droh-SEF-ah-lus",
+    "audioFile": "/public/audio/ch10_audio/hydrocephalus.mp3"
   },
   {
     "term": "hyperesthesia",
     "definition": "A condition of abnormal and excessive sensitivity to touch, pain, or other sensory stimuli.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "high-per-es-THEE-zee-ah"
+    "pronunciation": "high-per-es-THEE-zee-ah",
+    "audioFile": "/public/audio/ch10_audio/hyperesthesia.mp3"
   },
   {
     "term": "ischemic stroke",
     "definition": "A type of stroke that occurs when the flow of blood to the brain is blocked.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "iss-KEE-mick"
+    "pronunciation": "iss-KEE-mick",
+    "audioFile": "/public/audio/ch10_audio/ischemic_stroke.mp3"
   },
   {
     "term": "lethargy",
     "definition": "A lowered level of consciousness marked by listlessness, drowsiness, and apathy.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "LETH-ar-jee"
+    "pronunciation": "LETH-ar-jee",
+    "audioFile": "/public/audio/ch10_audio/lethargy.mp3"
   },
   {
     "term": "meningitis",
     "definition": "An inflammation of the meninges of the brain and spinal cord.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "men-in-JIGH-tis"
+    "pronunciation": "men-in-JIGH-tis",
+    "audioFile": "/public/audio/ch10_audio/meningitis.mp3"
   },
   {
     "term": "meningocele",
     "definition": "The congenital herniation of the meninges through a defect in the skull or spinal column.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "meh-NING-goh-seel"
+    "pronunciation": "meh-NING-goh-seel",
+    "audioFile": "/public/audio/ch10_audio/meningocele.mp3"
   },
   {
     "term": "migraine headache",
     "definition": "A headache characterized by throbbing pain on one side of the head and sometimes accompanied by nausea, vomiting, and sensitivity to light or sound.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "MY-grayn"
+    "pronunciation": "MY-grayn",
+    "audioFile": "/public/audio/ch10_audio/migraine_headache.mp3"
   },
   {
     "term": "multiple sclerosis",
     "definition": "A progressive autoimmune disorder characterized by inflammation that causes demyelination of the myelin sheath.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "skleh-ROH-sis"
+    "pronunciation": "skleh-ROH-sis",
+    "audioFile": "/public/audio/ch10_audio/multiple_sclerosis.mp3"
   },
   {
     "term": "myelitis",
     "definition": "An inflammation of the spinal cord.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "my-eh-LYE-tis"
+    "pronunciation": "my-eh-LYE-tis",
+    "audioFile": "/public/audio/ch10_audio/myelitis.mp3"
   },
   {
     "term": "myelography",
     "definition": "A radiographic study of the spinal cord after the injection of a contrast medium.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "my-eh-LOG-rah-fee"
+    "pronunciation": "my-eh-LOG-rah-fee",
+    "audioFile": "/public/audio/ch10_audio/myelography.mp3"
   },
   {
     "term": "narcolepsy",
     "definition": "A sleep disorder consisting of sudden and uncontrollable brief episodes of falling asleep during the day.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "NAR-koh-lep-see"
+    "pronunciation": "NAR-koh-lep-see",
+    "audioFile": "/public/audio/ch10_audio/narcolepsy.mp3"
   },
   {
     "term": "neurotransmitters",
     "definition": "Chemical substances that make it possible for messages to cross from the synapse of a neuron to the target receptor.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "new-roh-trans-MIT-erz"
+    "pronunciation": "new-roh-trans-MIT-erz",
+    "audioFile": "/public/audio/ch10_audio/neurotransmitters.mp3"
   },
   {
     "term": "obsessive-compulsive disorder",
     "definition": "A disorder characterized by recurrent, unwanted thoughts (obsessions) or repetitive behaviors (compulsions).",
     "category": "Ch10 The Nervous System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch10_audio/obsessive-compulsive_disorder.mp3"
   },
   {
     "term": "panic attack",
     "definition": "A sudden, intense feeling of fear that comes without warning.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch10_audio/panic_attack.mp3"
   },
   {
     "term": "parasomnia",
     "definition": "Abnormal behaviors such as nightmares or sleepwalking that occur during sleep.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "pair-ah-SOM-nee-ah"
+    "pronunciation": "pair-ah-SOM-nee-ah",
+    "audioFile": "/public/audio/ch10_audio/parasomnia.mp3"
   },
   {
     "term": "paresthesia",
     "definition": "An abnormal sensation, typically tingling or pricking ('pins and needles'), caused chiefly by pressure on or damage to peripheral nerves.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "pair-es-THEE-zee-ah"
+    "pronunciation": "pair-es-THEE-zee-ah",
+    "audioFile": "/public/audio/ch10_audio/paresthesia.mp3"
   },
   {
-    "term": "Parkinson’s disease",
+    "term": "Parkinson\u2019s disease",
     "definition": "A chronic degenerative central nervous disorder characterized by fine muscle tremors, rigidity, and a slow or shuffling gait.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch10_audio/parkinsons_disease.mp3"
   },
   {
     "term": "peripheral neuropathy",
     "definition": "A disorder of the nerves that carry information to and from the brain and spinal cord, producing pain, loss of sensation, and inability to control muscles.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "new-ROP-ah-thee"
+    "pronunciation": "new-ROP-ah-thee",
+    "audioFile": "/public/audio/ch10_audio/peripheral_neuropathy.mp3"
   },
   {
     "term": "post-traumatic stress disorder",
     "definition": "A mental health condition that's triggered by a terrifying event, either by experiencing it or witnessing it.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch10_audio/post_traumatic_stress_disorder.mp3"
   },
   {
-    "term": "Reye’s syndrome",
+    "term": "Reye\u2019s syndrome",
     "definition": "A potentially serious or deadly disorder in children that is characterized by vomiting and confusion, often after a viral infection.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "RIZE SIN-drohm"
+    "pronunciation": "RIZE SIN-drohm",
+    "audioFile": "/public/audio/ch10_audio/reyes_syndrome.mp3"
   },
   {
     "term": "schizophrenia",
     "definition": "A mental disorder characterized by delusions, hallucinations, disorganized thinking, and abnormal motor behavior.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "skit-soh-FREE-nee-ah"
+    "pronunciation": "skit-soh-FREE-nee-ah",
+    "audioFile": "/public/audio/ch10_audio/schizophrenia.mp3"
   },
   {
     "term": "sciatica",
     "definition": "Pain along the sciatic nerve, which radiates from the lower back down the leg.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "sigh-AT-ih-kah"
+    "pronunciation": "sigh-AT-ih-kah",
+    "audioFile": "/public/audio/ch10_audio/sciatica.mp3"
   },
   {
     "term": "seizure",
     "definition": "A sudden, uncontrolled electrical disturbance in the brain.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "SEE-zhur"
+    "pronunciation": "SEE-zhur",
+    "audioFile": "/public/audio/ch10_audio/seizure.mp3"
   },
   {
     "term": "shaken baby syndrome",
     "definition": "A serious brain injury resulting from forcefully shaking an infant or toddler.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch10_audio/shaken_baby_syndrome.mp3"
   },
   {
     "term": "syncope",
     "definition": "A brief loss of consciousness caused by a temporary decrease in blood flow to the brain, commonly known as fainting.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "SIN-koh-pee"
+    "pronunciation": "SIN-koh-pee",
+    "audioFile": "/public/audio/ch10_audio/syncope.mp3"
   },
   {
     "term": "tremor",
     "definition": "An involuntary, rhythmic muscle contraction leading to shaking movements in one or more parts of the body.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch10_audio/tremor.mp3"
   },
   {
     "term": "trigeminal neuralgia",
     "definition": "A condition characterized by sudden, intense, severe lightning-like pain due to an inflammation of the fifth cranial nerve.",
     "category": "Ch10 The Nervous System",
-    "pronunciation": "try-JEM-ih-nal new-RAL-jee-ah"
+    "pronunciation": "try-JEM-ih-nal new-RAL-jee-ah",
+    "audioFile": "/public/audio/ch10_audio/trigeminal_neuralgia.mp3"
   },
   {
     "term": "caus/o",
@@ -4958,361 +5129,421 @@
     "term": "adnexa",
     "definition": "The appendages or accessory structures of an organ.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "ad-NECK-sah"
+    "pronunciation": "ad-NECK-sah",
+    "audioFile": "/public/audio/ch11_audio/adnexa.mp3"
   },
   {
     "term": "amblyopia",
     "definition": "A dimness of vision or the partial loss of sight, especially in one eye, without detectable disease of the eye.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "am-blee-OH-pee-ah"
+    "pronunciation": "am-blee-OH-pee-ah",
+    "audioFile": "/public/audio/ch11_audio/amblyopia.mp3"
   },
   {
     "term": "ametropia",
     "definition": "A condition in which there is an error of refraction causing improper focus of light on the retina.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "am-eh-TROH-pee-ah"
+    "pronunciation": "am-eh-TROH-pee-ah",
+    "audioFile": "/public/audio/ch11_audio/ametropia.mp3"
   },
   {
     "term": "anisocoria",
     "definition": "A condition in which the pupils are unequal in size.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "an-ih-so-KOH-ree-ah"
+    "pronunciation": "an-ih-so-KOH-ree-ah",
+    "audioFile": "/public/audio/ch11_audio/anisocoria.mp3"
   },
   {
     "term": "astigmatism",
     "definition": "A condition in which the eye does not focus properly because of uneven curvatures of the cornea.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "ah-STIG-mah-tizm"
+    "pronunciation": "ah-STIG-mah-tizm",
+    "audioFile": "/public/audio/ch11_audio/astigmatism.mp3"
   },
   {
     "term": "audiometry",
     "definition": "The use of an audiometer to measure hearing acuity.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "aw-dee-OM-eh-tree"
+    "pronunciation": "aw-dee-OM-eh-tree",
+    "audioFile": "/public/audio/ch11_audio/audiometry.mp3"
   },
   {
     "term": "cataract",
     "definition": "The loss of transparency of the lens that causes a progressive loss of visual clarity.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "KAT-ah-rakt"
+    "pronunciation": "KAT-ah-rakt",
+    "audioFile": "/public/audio/ch11_audio/cataract.mp3"
   },
   {
     "term": "chalazion",
     "definition": "A nodule or cyst, usually on the upper eyelid, caused by obstruction in a sebaceous gland.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "kah-LAY-zee-on"
+    "pronunciation": "kah-LAY-zee-on",
+    "audioFile": "/public/audio/ch11_audio/chalazion.mp3"
   },
   {
     "term": "cochlear implant",
     "definition": "An electronic device that bypasses the damaged portions of the ear and directly stimulates the auditory nerve.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "KOCK-lee-ar"
+    "pronunciation": "KOCK-lee-ar",
+    "audioFile": "/public/audio/ch11_audio/cochlear_implant.mp3"
   },
   {
     "term": "conjunctivitis",
     "definition": "Inflammation of the conjunctiva, usually caused by an infection or an allergy.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "kon-junk-tih-VYE-tis"
+    "pronunciation": "kon-junk-tih-VYE-tis",
+    "audioFile": "/public/audio/ch11_audio/conjunctivitis.mp3"
   },
   {
     "term": "dacryoadenitis",
     "definition": "An inflammation of the lacrimal gland that can be caused by a bacterial, viral, or fungal infection.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "dack-ree-oh-ad-eh-NIGH-tis"
+    "pronunciation": "dack-ree-oh-ad-eh-NIGH-tis",
+    "audioFile": "/public/audio/ch11_audio/dacryoadenitis.mp3"
   },
   {
     "term": "diplopia",
     "definition": "Double vision.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "dih-PLOH-pee-ah"
+    "pronunciation": "dih-PLOH-pee-ah",
+    "audioFile": "/public/audio/ch11_audio/diplopia.mp3"
   },
   {
     "term": "ectropion",
     "definition": "The eversion of the edge of an eyelid.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "eck-TROH-pee-on"
+    "pronunciation": "eck-TROH-pee-on",
+    "audioFile": "/public/audio/ch11_audio/ectropion.mp3"
   },
   {
     "term": "emmetropia",
     "definition": "The normal relationship between the refractive power of the eye and the shape of the eye that enables light rays to focus correctly on the retina.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "em-eh-TROH-pee-ah"
+    "pronunciation": "em-eh-TROH-pee-ah",
+    "audioFile": "/public/audio/ch11_audio/emmetropia.mp3"
   },
   {
     "term": "entropion",
     "definition": "The inversion of the edge of an eyelid.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "en-TROH-pee-on"
+    "pronunciation": "en-TROH-pee-on",
+    "audioFile": "/public/audio/ch11_audio/entropion.mp3"
   },
   {
     "term": "esotropia",
     "definition": "A form of strabismus in which one or both eyes turn inward.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "es-oh-TROH-pee-ah"
+    "pronunciation": "es-oh-TROH-pee-ah",
+    "audioFile": "/public/audio/ch11_audio/esotropia.mp3"
   },
   {
     "term": "exotropia",
     "definition": "A form of strabismus in which one or both eyes turn outward.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "eck-soh-TROH-pee-ah"
+    "pronunciation": "eck-soh-TROH-pee-ah",
+    "audioFile": "/public/audio/ch11_audio/exotropia.mp3"
   },
   {
     "term": "fluorescein angiography",
     "definition": "A radiographic study of the blood vessels in the retina of the eye following the intravenous injection of a fluorescein dye as a contrast medium.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "flew-oh-RES-ee- in an-jee-OG-rah-fee"
+    "pronunciation": "flew-oh-RES-ee- in an-jee-OG-rah-fee",
+    "audioFile": "/public/audio/ch11_audio/fluorescein_angiography.mp3"
   },
   {
     "term": "glaucoma",
     "definition": "A group of diseases characterized by increased intraocular pressure that causes damage to the retinal nerve fibers and the optic nerve.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "glaw-KOH-mah"
+    "pronunciation": "glaw-KOH-mah",
+    "audioFile": "/public/audio/ch11_audio/glaucoma.mp3"
   },
   {
     "term": "hemianopia",
     "definition": "Blindness in one-half of the visual field.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "hem-ee-ah-NOH-pee-ah"
+    "pronunciation": "hem-ee-ah-NOH-pee-ah",
+    "audioFile": "/public/audio/ch11_audio/hemianopia.mp3"
   },
   {
     "term": "hordeolum",
     "definition": "A pus-filled lesion on the eyelid resulting from an infection in a sebaceous gland.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "hor-DEE-oh-lum"
+    "pronunciation": "hor-DEE-oh-lum",
+    "audioFile": "/public/audio/ch11_audio/hordeolum.mp3"
   },
   {
     "term": "hyperopia",
     "definition": "A vision defect in which light rays focus beyond the retina, also known as farsightedness.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "high-per-OH-pee-ah"
+    "pronunciation": "high-per-OH-pee-ah",
+    "audioFile": "/public/audio/ch11_audio/hyperopia.mp3"
   },
   {
     "term": "infectious myringitis",
     "definition": "A contagious inflammation that causes painful blisters on the eardrum.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "mir-in-JIGH-tis"
+    "pronunciation": "mir-in-JIGH-tis",
+    "audioFile": "/public/audio/ch11_audio/infectious_myringitis.mp3"
   },
   {
     "term": "iritis",
     "definition": "Inflammation of the uveal tract affecting primarily structures in the front of the eye.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "eye-RYE-tis"
+    "pronunciation": "eye-RYE-tis",
+    "audioFile": "/public/audio/ch11_audio/iritis.mp3"
   },
   {
     "term": "keratitis",
     "definition": "Inflammation of the cornea.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "ker-ah-TYE-tis"
+    "pronunciation": "ker-ah-TYE-tis",
+    "audioFile": "/public/audio/ch11_audio/keratitis.mp3"
   },
   {
     "term": "labyrinthectomy",
     "definition": "The surgical removal of all or a portion of the labyrinth.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "lab-ih-rin-THECK-toh-mee"
+    "pronunciation": "lab-ih-rin-THECK-toh-mee",
+    "audioFile": "/public/audio/ch11_audio/labyrinthectomy.mp3"
   },
   {
     "term": "laser iridotomy",
     "definition": "A focused beam of light is used to create a hole in the iris of the eye.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "ir-ih-DOT-oh-mee"
+    "pronunciation": "ir-ih-DOT-oh-mee",
+    "audioFile": "/public/audio/ch11_audio/laser_iridotomy.mp3"
   },
   {
     "term": "laser trabeculoplasty",
     "definition": "The creation of an opening that allows fluid to drain properly to prevent glaucoma.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "trah-BECK-you-loh-plas-tee"
+    "pronunciation": "trah-BECK-you-loh-plas-tee",
+    "audioFile": "/public/audio/ch11_audio/laser_trabeculoplasty.mp3"
   },
   {
     "term": "mastoidectomy",
     "definition": "The surgical removal of mastoid cells.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "mas-toy-DECK-toh-mee"
+    "pronunciation": "mas-toy-DECK-toh-mee",
+    "audioFile": "/public/audio/ch11_audio/mastoidectomy.mp3"
   },
   {
     "term": "mydriasis",
     "definition": "The dilation of the pupil.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "mih-DRY-ah-sis"
+    "pronunciation": "mih-DRY-ah-sis",
+    "audioFile": "/public/audio/ch11_audio/mydriasis.mp3"
   },
   {
     "term": "myopia",
     "definition": "A vision defect in which light rays focus in front of the retina, also known as nearsightedness.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "my-OH-pee-ah"
+    "pronunciation": "my-OH-pee-ah",
+    "audioFile": "/public/audio/ch11_audio/myopia.mp3"
   },
   {
     "term": "myringotomy",
     "definition": "A small surgical incision in the eardrum to relieve pressure from excess pus or fluid, or to create an opening for the placement of ear tubes.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "mir-in-GOT-oh-mee"
+    "pronunciation": "mir-in-GOT-oh-mee",
+    "audioFile": "/public/audio/ch11_audio/myringotomy.mp3"
   },
   {
     "term": "nyctalopia",
     "definition": "A condition in which an individual with normal daytime vision has difficulty seeing at night.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "nick-tah-LOH-pee-ah"
+    "pronunciation": "nick-tah-LOH-pee-ah",
+    "audioFile": "/public/audio/ch11_audio/nyctalopia.mp3"
   },
   {
     "term": "nystagmus",
     "definition": "An involuntary, constant, rhythmic movement of the eyeball.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "nis-TAG-mus"
+    "pronunciation": "nis-TAG-mus",
+    "audioFile": "/public/audio/ch11_audio/nystagmus.mp3"
   },
   {
     "term": "ophthalmoscopy",
     "definition": "The visual examination of the fundus (back part) of the eye with an ophthalmoscope.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "ahf-thal-MOS-koh-pee"
+    "pronunciation": "ahf-thal-MOS-koh-pee",
+    "audioFile": "/public/audio/ch11_audio/ophthalmoscopy.mp3"
   },
   {
     "term": "optometrist",
     "definition": "A specialist who provides primary eye care, including diagnosing eye diseases and conditions, and measuring the accuracy of vision to determine if corrective lenses are needed.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "op-TOM-eh-trist"
+    "pronunciation": "op-TOM-eh-trist",
+    "audioFile": "/public/audio/ch11_audio/optometrist.mp3"
   },
   {
     "term": "otitis media",
     "definition": "Inflammation of the middle ear.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "oh-TYE-tis MEE-dee-ah"
+    "pronunciation": "oh-TYE-tis MEE-dee-ah",
+    "audioFile": "/public/audio/ch11_audio/otitis_media.mp3"
   },
   {
     "term": "otomycosis",
     "definition": "A fungal infection of the external auditory canal.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "oh-toh-my-KOH-sis"
+    "pronunciation": "oh-toh-my-KOH-sis",
+    "audioFile": "/public/audio/ch11_audio/otomycosis.mp3"
   },
   {
     "term": "otopyorrhea",
     "definition": "The flow of pus from the ear.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "oh-toh-pye-oh-REE-ah"
+    "pronunciation": "oh-toh-pye-oh-REE-ah",
+    "audioFile": "/public/audio/ch11_audio/otopyorrhea.mp3"
   },
   {
     "term": "otorrhea",
     "definition": "Any discharge from the ear.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "oh-toh-REE-ah"
+    "pronunciation": "oh-toh-REE-ah",
+    "audioFile": "/public/audio/ch11_audio/otorrhea.mp3"
   },
   {
     "term": "otosclerosis",
     "definition": "The ankylosis of the bones of the middle ear, resulting in a conductive hearing loss.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "oh-toh-skleh-ROH-sis"
+    "pronunciation": "oh-toh-skleh-ROH-sis",
+    "audioFile": "/public/audio/ch11_audio/otosclerosis.mp3"
   },
   {
     "term": "papilledema",
     "definition": "Swelling and inflammation of the optic nerve at the point of entrance into the eye through the optic disk.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "pap-ill-eh-DEE-mah"
+    "pronunciation": "pap-ill-eh-DEE-mah",
+    "audioFile": "/public/audio/ch11_audio/papilledema.mp3"
   },
   {
     "term": "periorbital edema",
     "definition": "Swelling surrounding the eye or eyes.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "pehr-ee-OR-bih-tal eh-DEE-mah"
+    "pronunciation": "pehr-ee-OR-bih-tal eh-DEE-mah",
+    "audioFile": "/public/audio/ch11_audio/periorbital_edema.mp3"
   },
   {
     "term": "photophobia",
     "definition": "Excessive sensitivity to light.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "foh-toh-FOH-bee-ah"
+    "pronunciation": "foh-toh-FOH-bee-ah",
+    "audioFile": "/public/audio/ch11_audio/photophobia.mp3"
   },
   {
     "term": "pneumatic retinopexy",
     "definition": "A procedure to reattach the detached area in a retinal detachment.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "RET-ih-noh-peck-see"
+    "pronunciation": "RET-ih-noh-peck-see",
+    "audioFile": "/public/audio/ch11_audio/pneumatic_retinopexy.mp3"
   },
   {
     "term": "presbycusis",
     "definition": "A gradual loss of sensorineural hearing that occurs as the body ages.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "pres-beh-KOO-sis"
+    "pronunciation": "pres-beh-KOO-sis",
+    "audioFile": "/public/audio/ch11_audio/presbycusis.mp3"
   },
   {
     "term": "presbyopia",
     "definition": "A condition of common changes in the eyes that occur with aging.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "pres-bee-OH-pee-ah"
+    "pronunciation": "pres-bee-OH-pee-ah",
+    "audioFile": "/public/audio/ch11_audio/presbyopia.mp3"
   },
   {
     "term": "ptosis",
     "definition": "Drooping of the upper eyelid that is usually due to paralysis.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "TOH-sis"
+    "pronunciation": "TOH-sis",
+    "audioFile": "/public/audio/ch11_audio/ptosis.mp3"
   },
   {
     "term": "radial keratotomy",
     "definition": "A surgical procedure to treat myopia.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "ker-ah-TOT-oh-mee"
+    "pronunciation": "ker-ah-TOT-oh-mee",
+    "audioFile": "/public/audio/ch11_audio/radial_keratotomy.mp3"
   },
   {
     "term": "scleritis",
     "definition": "Inflammation of the sclera of the eye.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "skleh-RYE-tis"
+    "pronunciation": "skleh-RYE-tis",
+    "audioFile": "/public/audio/ch11_audio/scleritis.mp3"
   },
   {
     "term": "sensorineural hearing loss",
     "definition": "A condition caused by damage to the auditory nerve or the hair cells in the inner ear.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "sen-suh-ree-NOOR-al"
+    "pronunciation": "sen-suh-ree-NOOR-al",
+    "audioFile": "/public/audio/ch11_audio/sensorineural_hearing_loss.mp3"
   },
   {
     "term": "stapedectomy",
     "definition": "The surgical removal of the top portion of the stapes bone and the insertion of a small prosthetic device known as a piston that conducts sound vibrations to the inner ear.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "stay-peh-DECK-toh-mee"
+    "pronunciation": "stay-peh-DECK-toh-mee",
+    "audioFile": "/public/audio/ch11_audio/stapedectomy.mp3"
   },
   {
     "term": "strabismus",
     "definition": "A disorder in which the eyes point in different directions or are not aligned correctly because the eye muscles are unable to focus together.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "strah-BIZ-mus"
+    "pronunciation": "strah-BIZ-mus",
+    "audioFile": "/public/audio/ch11_audio/strabismus.mp3"
   },
   {
     "term": "tarsorrhaphy",
     "definition": "The partial or complete suturing together of the upper and lower eyelids to protect the eye when the lids are paralyzed.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "tahr-SOR-ah-fee"
+    "pronunciation": "tahr-SOR-ah-fee",
+    "audioFile": "/public/audio/ch11_audio/tarsorrhaphy.mp3"
   },
   {
     "term": "tinnitus",
     "definition": "A ringing, buzzing, or roaring sound in one or both ears.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "tih-NIGH-tus"
+    "pronunciation": "tih-NIGH-tus",
+    "audioFile": "/public/audio/ch11_audio/tinnitus.mp3"
   },
   {
     "term": "tonometry",
     "definition": "The measurement of intraocular pressure.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "toh-NOM-eh-tree"
+    "pronunciation": "toh-NOM-eh-tree",
+    "audioFile": "/public/audio/ch11_audio/tonometry.mp3"
   },
   {
     "term": "tympanometry",
     "definition": "The use of air pressure in the ear canal to test for disorders of the middle ear.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "tim-pah-NOM-eh-tree"
+    "pronunciation": "tim-pah-NOM-eh-tree",
+    "audioFile": "/public/audio/ch11_audio/tympanometry.mp3"
   },
   {
     "term": "vertigo",
     "definition": "A sense of whirling, dizziness, and loss of balance, often combined with nausea and vomiting.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "VER-tih-go"
+    "pronunciation": "VER-tih-go",
+    "audioFile": "/public/audio/ch11_audio/vertigo.mp3"
   },
   {
     "term": "vitrectomy",
     "definition": "The removal of the vitreous fluid of the posterior chamber of the eye and its replacement with a clear solution.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "vih-TRECK-toh-mee"
+    "pronunciation": "vih-TRECK-toh-mee",
+    "audioFile": "/public/audio/ch11_audio/vitrectomy.mp3"
   },
   {
     "term": "xerophthalmia",
     "definition": "Dry eye, in which the eye fails to produce enough tears.",
     "category": "Ch11 Special Senses: The Eyes and Ears",
-    "pronunciation": "zeer-ahf-THAL-mee-ah"
+    "pronunciation": "zeer-ahf-THAL-mee-ah",
+    "audioFile": "/public/audio/ch11_audio/xerophthalmia.mp3"
   },
   {
     "term": "blephar/o",
@@ -5408,193 +5639,225 @@
     "term": "actinic keratosis",
     "definition": "A precancerous skin growth that occurs on sun-damaged skin.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "ack-TIN-ick kerr-ah-TOH-sis"
+    "pronunciation": "ack-TIN-ick kerr-ah-TOH-sis",
+    "audioFile": "/public/audio/ch12_audio/actinic_keratosis.mp3"
   },
   {
     "term": "albinism",
     "definition": "A genetic condition characterized by a deficiency or the absence of pigment in the skin, hair, and irises of the eyes.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "AL-bih-niz-um"
+    "pronunciation": "AL-bih-niz-um",
+    "audioFile": "/public/audio/ch12_audio/albinism.mp3"
   },
   {
     "term": "alopecia",
     "definition": "The partial or complete loss of hair, most commonly on the scalp.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "al-oh-PEE-shee-ah"
+    "pronunciation": "al-oh-PEE-shee-ah",
+    "audioFile": "/public/audio/ch12_audio/alopecia.mp3"
   },
   {
     "term": "blepharoplasty",
     "definition": "The surgical reduction of the upper and lower eyelids by removing sagging skin.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "BLEF-ah-roh-plas-tee"
+    "pronunciation": "BLEF-ah-roh-plas-tee",
+    "audioFile": "/public/audio/ch12_audio/blepharoplasty.mp3"
   },
   {
     "term": "bulla",
     "definition": "A large blister that is usually more than 0.5 cm in diameter.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "BULL-ah"
+    "pronunciation": "BULL-ah",
+    "audioFile": "/public/audio/ch12_audio/bulla.mp3"
   },
   {
     "term": "capillary hemangioma",
     "definition": "A soft, raised, pink, or red vascular birthmark.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "KAP-uh-ler-ee hee-man-jee-OH-mah"
+    "pronunciation": "KAP-uh-ler-ee hee-man-jee-OH-mah",
+    "audioFile": "/public/audio/ch12_audio/capillary_hemangioma.mp3"
   },
   {
     "term": "carbuncle",
     "definition": "A cluster of connected furuncles (boils).",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "KAR-bung-kul"
+    "pronunciation": "KAR-bung-kul",
+    "audioFile": "/public/audio/ch12_audio/carbuncle.mp3"
   },
   {
     "term": "cellulitis",
     "definition": "An acute, rapidly spreading bacterial infection within the connective tissues.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "sell-you-LYE-tis"
+    "pronunciation": "sell-you-LYE-tis",
+    "audioFile": "/public/audio/ch12_audio/cellulitis.mp3"
   },
   {
     "term": "cicatrix",
     "definition": "A normal scar resulting from the healing of a wound.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "sick-AY-tricks"
+    "pronunciation": "sick-AY-tricks",
+    "audioFile": "/public/audio/ch12_audio/cicatrix.mp3"
   },
   {
     "term": "comedo",
     "definition": "A noninfected lesion formed by the buildup of sebum and keratin in a hair follicle.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "KOM-eh-doh"
+    "pronunciation": "KOM-eh-doh",
+    "audioFile": "/public/audio/ch12_audio/comedo.mp3"
   },
   {
     "term": "debridement",
     "definition": "The removal of dirt, foreign objects, damaged tissue, and cellular debris from a wound to prevent infection and to promote healing.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "dah-BREED-ment"
+    "pronunciation": "dah-BREED-ment",
+    "audioFile": "/public/audio/ch12_audio/debridement.mp3"
   },
   {
     "term": "dermatitis",
     "definition": "An inflammation of the skin.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "der-mah-TYE-tis"
+    "pronunciation": "der-mah-TYE-tis",
+    "audioFile": "/public/audio/ch12_audio/dermatitis.mp3"
   },
   {
     "term": "diaphoresis",
     "definition": "Profuse sweating.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "dye-ah-foh-REE-sis"
+    "pronunciation": "dye-ah-foh-REE-sis",
+    "audioFile": "/public/audio/ch12_audio/diaphoresis.mp3"
   },
   {
     "term": "dysplastic nevi",
     "definition": "Atypical moles that can develop into skin cancer.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "dis-PLAS-tick NEE-vye"
+    "pronunciation": "dis-PLAS-tick NEE-vye",
+    "audioFile": "/public/audio/ch12_audio/dysplastic_nevi.mp3"
   },
   {
     "term": "ecchymosis",
     "definition": "A large, irregular area of purplish discoloration due to bleeding under the skin.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "eck-ih-MOH-sis"
+    "pronunciation": "eck-ih-MOH-sis",
+    "audioFile": "/public/audio/ch12_audio/ecchymosis.mp3"
   },
   {
     "term": "eczema",
     "definition": "A form of persistent or recurring dermatitis usually characterized by redness, itching, and dryness, with possible blistering, cracking, oozing, or bleeding.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "ECK-zeh-mah"
+    "pronunciation": "ECK-zeh-mah",
+    "audioFile": "/public/audio/ch12_audio/eczema.mp3"
   },
   {
     "term": "erythema",
     "definition": "Redness of the skin due to capillary dilation.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "er-ih-THEE-mah"
+    "pronunciation": "er-ih-THEE-mah",
+    "audioFile": "/public/audio/ch12_audio/erythema.mp3"
   },
   {
     "term": "erythroderma",
     "definition": "Abnormal redness of the entire skin surface.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "eh-rith-roh-DER-mah"
+    "pronunciation": "eh-rith-roh-DER-mah",
+    "audioFile": "/public/audio/ch12_audio/erythroderma.mp3"
   },
   {
     "term": "exanthem",
     "definition": "A widespread rash, usually in children.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "eck-ZAN-thum"
+    "pronunciation": "eck-ZAN-thum",
+    "audioFile": "/public/audio/ch12_audio/exanthem.mp3"
   },
   {
     "term": "exfoliative dermatitis",
     "definition": "A condition in which there is widespread scaling of the skin, often with pruritus, erythroderma, and hair loss.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "ecks-FOH-lee-ay-tiv der-mah-TYE-tis"
+    "pronunciation": "ecks-FOH-lee-ay-tiv der-mah-TYE-tis",
+    "audioFile": "/public/audio/ch12_audio/exfoliative_dermatitis.mp3"
   },
   {
     "term": "folliculitis",
     "definition": "Inflammation of the hair follicles.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "foh-lick-you-LYE-tis"
+    "pronunciation": "foh-lick-you-LYE-tis",
+    "audioFile": "/public/audio/ch12_audio/folliculitis.mp3"
   },
   {
     "term": "furuncles",
     "definition": "Large, tender, swollen areas caused by a staphylococcal infection around hair follicles or sebaceous glands.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "FYOU-rung-kulz"
+    "pronunciation": "FYOU-rung-kulz",
+    "audioFile": "/public/audio/ch12_audio/furuncles.mp3"
   },
   {
     "term": "hematoma",
     "definition": "A swelling of clotted blood trapped in the tissues.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "hee-mah-TOH-mah"
+    "pronunciation": "hee-mah-TOH-mah",
+    "audioFile": "/public/audio/ch12_audio/hematoma.mp3"
   },
   {
     "term": "hirsutism",
     "definition": "The presence of excessive body and facial hair in women, usually occurring in a male pattern.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "HER-soot-izm"
+    "pronunciation": "HER-soot-izm",
+    "audioFile": "/public/audio/ch12_audio/hirsutism.mp3"
   },
   {
     "term": "ichthyosis",
     "definition": "A group of hereditary disorders characterized by dry, thickened, and scaly skin.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "ick-thee-OH-sis"
+    "pronunciation": "ick-thee-OH-sis",
+    "audioFile": "/public/audio/ch12_audio/ichthyosis.mp3"
   },
   {
     "term": "impetigo",
     "definition": "A highly contagious bacterial skin infection that commonly occurs in children.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "im-peh-TYE-goh"
+    "pronunciation": "im-peh-TYE-goh",
+    "audioFile": "/public/audio/ch12_audio/impetigo.mp3"
   },
   {
     "term": "keloid",
     "definition": "An abnormally raised or thickened scar that expands beyond the boundaries of the original incision.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "KEE-loid"
+    "pronunciation": "KEE-loid",
+    "audioFile": "/public/audio/ch12_audio/keloid.mp3"
   },
   {
     "term": "keratosis",
     "definition": "Any skin growth, such as a wart or a callus, in which there is overgrowth and thickening of the skin.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "kerr-ah-TOH-sis"
+    "pronunciation": "kerr-ah-TOH-sis",
+    "audioFile": "/public/audio/ch12_audio/keratosis.mp3"
   },
   {
     "term": "koilonychia",
     "definition": "A malformation of the nails in which the outer surface is concave or scooped out like the bowl of a spoon.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "koy-loh-NICK-ee-ah"
+    "pronunciation": "koy-loh-NICK-ee-ah",
+    "audioFile": "/public/audio/ch12_audio/koilonychia.mp3"
   },
   {
     "term": "lipedema",
     "definition": "A chronic abnormal condition that is characterized by the accumulation of fat and fluid in the tissues just under the skin of the hips and legs.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "lip-eh-DEE-mah"
+    "pronunciation": "lip-eh-DEE-mah",
+    "audioFile": "/public/audio/ch12_audio/lipedema.mp3"
   },
   {
     "term": "lipoma",
     "definition": "A benign, slow-growing fatty tumor located between the skin and the muscle layer.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "lih-POH-mah"
+    "pronunciation": "lih-POH-mah",
+    "audioFile": "/public/audio/ch12_audio/lipoma.mp3"
   },
   {
     "term": "macule",
     "definition": "A discolored flat spot that is less than 1 cm in diameter.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "MACK-youl"
+    "pronunciation": "MACK-youl",
+    "audioFile": "/public/audio/ch12_audio/macule.mp3"
   },
   {
     "term": "malignant melanoma",
@@ -5612,157 +5875,183 @@
     "term": "necrotizing fasciitis",
     "definition": "A severe infection caused by Group A strep bacteria that enters the body through a wound.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "NECK-roh-tie-zing fas-ee-EYE-tis"
+    "pronunciation": "NECK-roh-tie-zing fas-ee-EYE-tis",
+    "audioFile": "/public/audio/ch12_audio/necrotizing_fasciitis.mp3"
   },
   {
     "term": "onychocryptosis",
     "definition": "The edges of a toenail curve inward and cut into the skin.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "on-ih-koh-krip-TOH-sis"
+    "pronunciation": "on-ih-koh-krip-TOH-sis",
+    "audioFile": "/public/audio/ch12_audio/onychocryptosis.mp3"
   },
   {
     "term": "onychomycosis",
     "definition": "A fungal infection of the nail.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "on-ih-koh-my-KOH-sis"
+    "pronunciation": "on-ih-koh-my-KOH-sis",
+    "audioFile": "/public/audio/ch12_audio/onychomycosis.mp3"
   },
   {
     "term": "papilloma",
     "definition": "A benign, superficial wart-like growth on the epithelial tissue or elsewhere in the body, such as in the bladder.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "pap-ih-LOH-mah"
+    "pronunciation": "pap-ih-LOH-mah",
+    "audioFile": "/public/audio/ch12_audio/papilloma.mp3"
   },
   {
     "term": "papule",
     "definition": "A small, raised red lesion that is less than 0.5 cm in diameter.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "PAP-youl"
+    "pronunciation": "PAP-youl",
+    "audioFile": "/public/audio/ch12_audio/papule.mp3"
   },
   {
     "term": "paronychia",
     "definition": "An acute or chronic infection of the skin fold around a nail.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "par-oh-NICK-ee-ah"
+    "pronunciation": "par-oh-NICK-ee-ah",
+    "audioFile": "/public/audio/ch12_audio/paronychia.mp3"
   },
   {
     "term": "pediculosis",
     "definition": "An infestation with lice.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "pee-dick-you-LOH-sis"
+    "pronunciation": "pee-dick-you-LOH-sis",
+    "audioFile": "/public/audio/ch12_audio/pediculosis.mp3"
   },
   {
     "term": "petechiae",
     "definition": "Small pinpoint hemorrhages that are less than 2 mm in diameter.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "peh-TEE-kee-eye"
+    "pronunciation": "peh-TEE-kee-eye",
+    "audioFile": "/public/audio/ch12_audio/petechiae.mp3"
   },
   {
     "term": "pressure ulcer",
     "definition": "An open ulcerated wound that is caused by prolonged pressure on an area of skin.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch12_audio/pressure_ulcer.mp3"
   },
   {
     "term": "pruritus",
     "definition": "Itching associated with most forms of dermatitis.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "proo-RYE-tus"
+    "pronunciation": "proo-RYE-tus",
+    "audioFile": "/public/audio/ch12_audio/pruritus.mp3"
   },
   {
     "term": "psoriasis",
     "definition": "A common skin disorder characterized by flare-ups in which red papules covered with silvery scales occur on the elbows, knees, scalp, back, or buttocks.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "soh-RYE-uh-sis"
+    "pronunciation": "soh-RYE-uh-sis",
+    "audioFile": "/public/audio/ch12_audio/psoriasis.mp3"
   },
   {
     "term": "purpura",
     "definition": "The appearance of multiple purple discolorations on the skin caused by bleeding underneath the skin.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "PUR-pew-rah"
+    "pronunciation": "PUR-pew-rah",
+    "audioFile": "/public/audio/ch12_audio/purpura.mp3"
   },
   {
     "term": "purulent",
     "definition": "Producing or containing pus.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "PYOU-roo-lent"
+    "pronunciation": "PYOU-roo-lent",
+    "audioFile": "/public/audio/ch12_audio/purulent.mp3"
   },
   {
     "term": "rhytidectomy",
     "definition": "The surgical removal of excess skin and fat from the face to eliminate wrinkles.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "rit-ih-DECK-toh-mee"
+    "pronunciation": "rit-ih-DECK-toh-mee",
+    "audioFile": "/public/audio/ch12_audio/rhytidectomy.mp3"
   },
   {
     "term": "rosacea",
     "definition": "A chronic condition of unknown cause, characterized by tiny red pimples and broken blood vessels.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "roh-ZAY-shee-ah"
+    "pronunciation": "roh-ZAY-shee-ah",
+    "audioFile": "/public/audio/ch12_audio/rosacea.mp3"
   },
   {
     "term": "scabies",
     "definition": "A skin infection caused by an infestation with the itch mite.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "SKAY-beez"
+    "pronunciation": "SKAY-beez",
+    "audioFile": "/public/audio/ch12_audio/scabies.mp3"
   },
   {
     "term": "scleroderma",
     "definition": "An autoimmune disorder in which the connective tissues become thickened and hardened, causing the skin to become hard and swollen.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "sklehr-oh-DER-mah"
+    "pronunciation": "sklehr-oh-DER-mah",
+    "audioFile": "/public/audio/ch12_audio/scleroderma.mp3"
   },
   {
     "term": "seborrheic dermatitis",
     "definition": "An inflammation that causes scaling and itching of the upper layers of the skin or scalp.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "seb-oh-REE-ick der-mah-TYE-tis"
+    "pronunciation": "seb-oh-REE-ick der-mah-TYE-tis",
+    "audioFile": "/public/audio/ch12_audio/seborrheic_dermatitis.mp3"
   },
   {
     "term": "squamous cell carcinoma",
     "definition": "A malignant tumor of the scaly squamous cells of the epithelium.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "SKWAY-mus"
+    "pronunciation": "SKWAY-mus",
+    "audioFile": "/public/audio/ch12_audio/squamous_cell_carcinoma.mp3"
   },
   {
     "term": "systemic lupus erythematosus",
     "definition": "An autoimmune disorder characterized by a red, scaly rash on the face and upper trunk that also attacks the connective tissue in other body systems.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "sis-TEH-mik LOO-pus er-ih-thee-mah-TOH-sus"
+    "pronunciation": "sis-TEH-mik LOO-pus er-ih-thee-mah-TOH-sus",
+    "audioFile": "/public/audio/ch12_audio/systemic_lupus_erythematosus.mp3"
   },
   {
     "term": "tinea",
     "definition": "A fungal infection that can grow on the skin, hair, or nails.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "TIN-ee-ah"
+    "pronunciation": "TIN-ee-ah",
+    "audioFile": "/public/audio/ch12_audio/tinea.mp3"
   },
   {
     "term": "urticaria",
     "definition": "Hives, an itchy wheal caused by an allergic reaction.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "ur-tih-KARE-ee-ah"
+    "pronunciation": "ur-tih-KARE-ee-ah",
+    "audioFile": "/public/audio/ch12_audio/uritciaria.mp3"
   },
   {
     "term": "verrucae",
     "definition": "Small, hard skin lesions caused by the human papillomavirus, commonly known as warts.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "veh-ROO-kee"
+    "pronunciation": "veh-ROO-kee",
+    "audioFile": "/public/audio/ch12_audio/verrucae.mp3"
   },
   {
     "term": "vitiligo",
     "definition": "A condition in which a loss of pigment-producing cells results in patches of white skin.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "vit-ih-LYE-goh"
+    "pronunciation": "vit-ih-LYE-goh",
+    "audioFile": "/public/audio/ch12_audio/vitiligo.mp3"
   },
   {
     "term": "wheal",
     "definition": "A small bump that itches, often appearing as a symptom of an allergic reaction.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "WHEEL"
+    "pronunciation": "WHEEL",
+    "audioFile": "/public/audio/ch12_audio/wheal.mp3"
   },
   {
     "term": "xeroderma",
     "definition": "Excessively dry skin.",
     "category": "Ch12 Skin: The Integumentary System",
-    "pronunciation": "zee-roh-DER-mah"
+    "pronunciation": "zee-roh-DER-mah",
+    "audioFile": "/public/audio/ch12_audio/xeroderma.mp3"
   },
   {
     "term": "cry/o",
@@ -5858,109 +6147,127 @@
     "term": "acromegaly",
     "definition": "A rare chronic disease characterized by abnormal enlargement of the extremities caused by excessive secretion of growth hormone after puberty.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "ack-roh-MEG-ah-lee"
+    "pronunciation": "ack-roh-MEG-ah-lee",
+    "audioFile": "/public/audio/ch13_audio/acromegaly.mp3"
   },
   {
-    "term": "Addison’s disease",
+    "term": "Addison\u2019s disease",
     "definition": "A condition that occurs when the adrenal glands do not produce enough of the hormones cortisol or aldosterone.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "AD-ih-sonz"
+    "pronunciation": "AD-ih-sonz",
+    "audioFile": "/public/audio/ch13_audio/addisons_disease.mp3"
   },
   {
     "term": "adrenalitis",
     "definition": "Inflammation of the adrenal glands.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "ah-dree-nal-EYE-tis"
+    "pronunciation": "ah-dree-nal-EYE-tis",
+    "audioFile": "/public/audio/ch13_audio/adrenalitis.mp3"
   },
   {
     "term": "aldosteronism",
     "definition": "An abnormality of electrolyte balance caused by the excessive secretion of aldosterone.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "al-DOSS-teh-roh-niz-em"
+    "pronunciation": "al-DOSS-teh-roh-niz-em",
+    "audioFile": "/public/audio/ch13_audio/aldosteronism.mp3"
   },
   {
     "term": "antidiuretic hormone",
     "definition": "A hormone that helps control blood pressure by reducing the amount of water that is excreted.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "an-tih-dye-you-RET-ick"
+    "pronunciation": "an-tih-dye-you-RET-ick",
+    "audioFile": "/public/audio/ch13_audio/antidiuretic_hormone.mp3"
   },
   {
     "term": "calcitonin",
     "definition": "A hormone that works with the parathyroid hormone to regulate calcium levels in the blood and tissues.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "kal-sih-TOH-nin"
+    "pronunciation": "kal-sih-TOH-nin",
+    "audioFile": "/public/audio/ch13_audio/calcitonin.mp3"
   },
   {
     "term": "corticosteroids",
     "definition": "The steroid hormones produced by the adrenal cortex.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "kor-tih-koh-STEHR-oidz"
+    "pronunciation": "kor-tih-koh-STEHR-oidz",
+    "audioFile": "/public/audio/ch13_audio/corticosteroids.mp3"
   },
   {
     "term": "cortisol",
     "definition": "A corticosteroid that has an anti-inflammatory action, regulates the metabolism of carbohydrates, fats, and proteins, and helps maintain blood pressure.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "KOR-tih-sol"
+    "pronunciation": "KOR-tih-sol",
+    "audioFile": "/public/audio/ch13_audio/cortisol.mp3"
   },
   {
     "term": "cretinism",
     "definition": "A congenital form of hypothyroidism that, if not treated soon after birth, causes arrested physical and mental development.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "CREE-tin-izm"
+    "pronunciation": "CREE-tin-izm",
+    "audioFile": "/public/audio/ch13_audio/cretinism.mp3"
   },
   {
-    "term": "Cushing’s syndrome",
+    "term": "Cushing\u2019s syndrome",
     "definition": "A condition caused by prolonged exposure to high levels of cortisol.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "KUSH-ingz"
+    "pronunciation": "KUSH-ingz",
+    "audioFile": "/public/audio/ch13_audio/cushings_syndrome.mp3"
   },
   {
     "term": "diabetes insipidus",
     "definition": "A condition caused by insufficient production of the antidiuretic hormone or by the inability of the kidneys to respond to this hormone.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "dye-ah-BEE-teez in-SIP-ih-dus"
+    "pronunciation": "dye-ah-BEE-teez in-SIP-ih-dus",
+    "audioFile": "/public/audio/ch13_audio/diabetes_insipidus.mp3"
   },
   {
     "term": "diabetes mellitus",
     "definition": "A group of metabolic disorders characterized by hyperglycemia resulting from defects in insulin secretion, insulin action, or both.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "dye-ah-BEE-teez MEL-ih-tus"
+    "pronunciation": "dye-ah-BEE-teez MEL-ih-tus",
+    "audioFile": "/public/audio/ch13_audio/diabetes_mellitus.mp3"
   },
   {
     "term": "diabetic ketoacidosis",
     "definition": "A life-threatening complication of diabetes mellitus, primarily type 1, that occurs when the body cannot use sugar as a fuel source because there is not enough insulin.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "kee-toh-ah-seh-DOH-sis"
+    "pronunciation": "kee-toh-ah-seh-DOH-sis",
+    "audioFile": "/public/audio/ch13_audio/diabetic_ketoacidosis.mp3"
   },
   {
     "term": "diabetic retinopathy",
     "definition": "Damage to the retina as a complication of uncontrolled diabetes.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "ret-ih-NOP-ah-thee"
+    "pronunciation": "ret-ih-NOP-ah-thee",
+    "audioFile": "/public/audio/ch13_audio/diabetic_retinopathy.mp3"
   },
   {
     "term": "electrolytes",
     "definition": "Mineral substances, such as sodium and potassium, normally found in the blood.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "ee-LECK-troh-lytes"
+    "pronunciation": "ee-LECK-troh-lytes",
+    "audioFile": "/public/audio/ch13_audio/electrolytes.mp3"
   },
   {
     "term": "epinephrine",
     "definition": "A hormone that stimulates the sympathetic nervous system in response to physical injury or mental stress.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "ep-ih-NEF-rin"
+    "pronunciation": "ep-ih-NEF-rin",
+    "audioFile": "/public/audio/ch13_audio/epinephrine.mp3"
   },
   {
     "term": "estrogen",
     "definition": "A hormone secreted by the ovaries that is important in the development and maintenance of the female secondary sex characteristics.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "ES-troh-jen"
+    "pronunciation": "ES-troh-jen",
+    "audioFile": "/public/audio/ch13_audio/estrogen.mp3"
   },
   {
     "term": "exophthalmos",
     "definition": "An abnormal protrusion of the eyeball out of the orbit.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "eck-sof-THAL-mos"
+    "pronunciation": "eck-sof-THAL-mos",
+    "audioFile": "/public/audio/ch13_audio/exophthalmos.mp3"
   },
   {
     "term": "follicle-stimulating hormone",
@@ -5972,247 +6279,288 @@
     "term": "fructosamine test",
     "definition": "A test that measures average glucose levels over the past 3 weeks.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "fruck-TOHS-ah-meen"
+    "pronunciation": "fruck-TOHS-ah-meen",
+    "audioFile": "/public/audio/ch13_audio/fructosamine_test.mp3"
   },
   {
     "term": "gestational diabetes mellitus",
     "definition": "A form of diabetes mellitus that occurs during some pregnancies.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "jes-TAY-shun-al dye-ah-BEE-teez MEL-ih-tus"
+    "pronunciation": "jes-TAY-shun-al dye-ah-BEE-teez MEL-ih-tus",
+    "audioFile": "/public/audio/ch13_audio/gestational_diabetes_mellitus.mp3"
   },
   {
     "term": "gigantism",
     "definition": "Abnormal growth of the entire body caused by excessive secretion of growth hormone before puberty.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "jigh-GAN-tiz-em"
+    "pronunciation": "jigh-GAN-tiz-em",
+    "audioFile": "/public/audio/ch13_audio/gigantism.mp3"
   },
   {
     "term": "glucagon",
     "definition": "A hormone secreted by the alpha cells of the pancreatic islets in response to low levels of glucose in the bloodstream.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "GLOO-kah-gon"
+    "pronunciation": "GLOO-kah-gon",
+    "audioFile": "/public/audio/ch13_audio/glucagon.mp3"
   },
   {
     "term": "glucose",
     "definition": "The basic form of sugar that is used as fuel for the body.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "GLOO-kohs"
+    "pronunciation": "GLOO-kohs",
+    "audioFile": "/public/audio/ch13_audio/glucose.mp3"
   },
   {
-    "term": "Graves’ disease",
+    "term": "Graves\u2019 disease",
     "definition": "A disorder of unknown cause in which the immune system attacks the thyroid gland and stimulates it to make excessive amounts of thyroid hormone.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "GRAYVZ"
+    "pronunciation": "GRAYVZ",
+    "audioFile": "/public/audio/ch13_audio/graves_disease.mp3"
   },
   {
     "term": "growth hormone",
     "definition": "A hormone that regulates the growth of bone, muscle, and other body tissues.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch13_audio/growth_hormone.mp3"
   },
   {
     "term": "gynecomastia",
     "definition": "The condition of excessive mammary development in the male.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "guy-neh-koh-MAS-tee-ah"
+    "pronunciation": "guy-neh-koh-MAS-tee-ah",
+    "audioFile": "/public/audio/ch13_audio/gynecomastia.mp3"
   },
   {
-    "term": "Hashimoto’s disease",
+    "term": "Hashimoto\u2019s disease",
     "definition": "An autoimmune disease in which the body's own antibodies attack and destroy the cells of the thyroid gland.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "hah-shee-MOH-tohz"
+    "pronunciation": "hah-shee-MOH-tohz",
+    "audioFile": "/public/audio/ch13_audio/hashimotos_disease.mp3"
   },
   {
     "term": "hypercalcemia",
     "definition": "An abnormally high concentration of calcium in the blood.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "high-per-kal-SEE-mee-ah"
+    "pronunciation": "high-per-kal-SEE-mee-ah",
+    "audioFile": "/public/audio/ch13_audio/hypercalcemia.mp3"
   },
   {
     "term": "hyperglycemia",
     "definition": "An abnormally high concentration of glucose in the blood.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "high-per-glye-SEE-mee-ah"
+    "pronunciation": "high-per-glye-SEE-mee-ah",
+    "audioFile": "/public/audio/ch13_audio/hyperglycemia.mp3"
   },
   {
     "term": "hyperinsulinism",
     "definition": "A condition of excessive secretion of insulin in the bloodstream.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "high-per-IN-suh-lin-izm"
+    "pronunciation": "high-per-IN-suh-lin-izm",
+    "audioFile": "/public/audio/ch13_audio/hyperinsulinism.mp3"
   },
   {
     "term": "hyperpituitarism",
     "definition": "Excessive secretion of growth hormone that causes acromegaly and gigantism.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "high-per-pih-TOO-ih-tah-rizm"
+    "pronunciation": "high-per-pih-TOO-ih-tah-rizm",
+    "audioFile": "/public/audio/ch13_audio/hyperpituitarism.mp3"
   },
   {
     "term": "hyperthyroidism",
     "definition": "The overproduction of thyroid hormones.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "high-per-THIGH-roid-izm"
+    "pronunciation": "high-per-THIGH-roid-izm",
+    "audioFile": "/public/audio/ch13_audio/hyperthyroidism.mp3"
   },
   {
     "term": "hypoglycemia",
     "definition": "An abnormally low concentration of glucose in the blood.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "high-poh-gly-SEE-mee-ah"
+    "pronunciation": "high-poh-gly-SEE-mee-ah",
+    "audioFile": "/public/audio/ch13_audio/hypoglycemia.mp3"
   },
   {
     "term": "hypothyroidism",
     "definition": "The underproduction of thyroid hormones.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "high-poh-THIGH-roid-izm"
+    "pronunciation": "high-poh-THIGH-roid-izm",
+    "audioFile": "/public/audio/ch13_audio/hypothyroidism.mp3"
   },
   {
     "term": "insulin",
     "definition": "A hormone secreted by the beta cells of the pancreatic islets in response to high levels of glucose in the bloodstream.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "IN-suh-lin"
+    "pronunciation": "IN-suh-lin",
+    "audioFile": "/public/audio/ch13_audio/insulin.mp3"
   },
   {
     "term": "insulinoma",
     "definition": "A benign tumor of the pancreas that causes hypoglycemia by secreting additional insulin.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "in-suh-lin-OH-mah"
+    "pronunciation": "in-suh-lin-OH-mah",
+    "audioFile": "/public/audio/ch13_audio/insulinoma.mp3"
   },
   {
     "term": "ketosis",
     "definition": "A metabolic process in which the body burns fat for energy when the glucose level in the body is too low.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "kee-TOH-sis"
+    "pronunciation": "kee-TOH-sis",
+    "audioFile": "/public/audio/ch13_audio/ketosis.mp3"
   },
   {
     "term": "laparoscopic adrenalectomy",
     "definition": "A minimally invasive surgical procedure to remove one or both adrenal glands.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "lap-ah-roh-SKOP-ick ah-dree-nal-ECK-toh-mee"
+    "pronunciation": "lap-ah-roh-SKOP-ick ah-dree-nal-ECK-toh-mee",
+    "audioFile": "/public/audio/ch13_audio/laparoscopic_adrenalectomy.mp3"
   },
   {
     "term": "leptin",
     "definition": "A hormone secreted by adipocytes that helps to regulate body fat and energy balance.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "LEP-tin"
+    "pronunciation": "LEP-tin",
+    "audioFile": "/public/audio/ch13_audio/leptin.mp3"
   },
   {
-    "term": "luteinizing hormone",
+    "term": "luteniizing hormone",
     "definition": "A hormone that stimulates ovulation in females and testosterone secretion in males.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "LOO-tee-in-eye-zing"
+    "pronunciation": "LOO-tee-in-eye-zing",
+    "audioFile": "/public/audio/ch13_audio/luteniizing_hormone.mp3"
   },
   {
     "term": "myxedema",
     "definition": "A severe form of adult hypothyroidism characterized by swelling, particularly in the face.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "mick-seh-DEE-mah"
+    "pronunciation": "mick-seh-DEE-mah",
+    "audioFile": "/public/audio/ch13_audio/myxedema.mp3"
   },
   {
     "term": "norepinephrine",
     "definition": "A hormone and neurohormone that is both a stress hormone and a neurotransmitter.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "nor-ep-ih-NEF-rin"
+    "pronunciation": "nor-ep-ih-NEF-rin",
+    "audioFile": "/public/audio/ch13_audio/norepinephrine.mp3"
   },
   {
     "term": "oxytocin",
     "definition": "A hormone secreted by the posterior lobe of the pituitary gland that stimulates uterine contractions during childbirth.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "ock-see-TOH-sin"
+    "pronunciation": "ock-see-TOH-sin",
+    "audioFile": "/public/audio/ch13_audio/oxytocin.mp3"
   },
   {
     "term": "pancreatitis",
     "definition": "An inflammation of the pancreas.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "pan-kree-ah-TYE-tis"
+    "pronunciation": "pan-kree-ah-TYE-tis",
+    "audioFile": "/public/audio/ch13_audio/pancreatitis.mp3"
   },
   {
     "term": "parathyroidectomy",
     "definition": "The surgical removal of one or more of the parathyroid glands.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "par-ah-thigh-roi-DECK-toh-mee"
+    "pronunciation": "par-ah-thigh-roi-DECK-toh-mee",
+    "audioFile": "/public/audio/ch13_audio/parathyroidectomy.mp3"
   },
   {
     "term": "pituitary adenoma",
     "definition": "A slow-growing, benign tumor of the pituitary gland.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "pih-TOO-ih-tair-ee ad-eh-NOH-mah"
+    "pronunciation": "pih-TOO-ih-tair-ee ad-eh-NOH-mah",
+    "audioFile": "/public/audio/ch13_audio/pituitary_adenoma.mp3"
   },
   {
     "term": "polydipsia",
     "definition": "Excessive thirst.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "pol-ee-DIP-see-ah"
+    "pronunciation": "pol-ee-DIP-see-ah",
+    "audioFile": "/public/audio/ch13_audio/polydipsia.mp3"
   },
   {
     "term": "polyphagia",
     "definition": "Excessive hunger.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "pol-ee-FAY-jee-ah"
+    "pronunciation": "pol-ee-FAY-jee-ah",
+    "audioFile": "/public/audio/ch13_audio/polyphagia.mp3"
   },
   {
     "term": "polyuria",
     "definition": "Excessive urination.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "pol-ee-YOU-ree-ah"
+    "pronunciation": "pol-ee-YOU-ree-ah",
+    "audioFile": "/public/audio/ch13_audio/polyuria.mp3"
   },
   {
     "term": "prediabetes",
     "definition": "A condition in which blood glucose levels are higher than normal, but not high enough for a diagnosis of type 2 diabetes.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "pree-dye-ah-BEE-teez"
+    "pronunciation": "pree-dye-ah-BEE-teez",
+    "audioFile": "/public/audio/ch13_audio/prediabetes.mp3"
   },
   {
     "term": "progesterone",
     "definition": "A hormone secreted by the corpus luteum in the ovary during the second half of the menstrual cycle.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "proh-JES-ter-ohn"
+    "pronunciation": "proh-JES-ter-ohn",
+    "audioFile": "/public/audio/ch13_audio/progesterone.mp3"
   },
   {
     "term": "prolactinoma",
     "definition": "A benign tumor of the pituitary gland that causes it to produce too much prolactin.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "proh-lack-tih-NOH-mah"
+    "pronunciation": "proh-lack-tih-NOH-mah",
+    "audioFile": "/public/audio/ch13_audio/prolactinoma.mp3"
   },
   {
     "term": "puberty",
-    "definition": "The process of physical changes by which a child’s body becomes an adult body capable of reproducing.",
+    "definition": "The process of physical changes by which a child\u2019s body becomes an adult body capable of reproducing.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "PYU-ber-tee"
+    "pronunciation": "PYU-ber-tee",
+    "audioFile": "/public/audio/ch13_audio/puberty.mp3"
   },
   {
     "term": "radioactive iodine treatment",
     "definition": "The oral administration of radioactive iodine to destroy thyroid cells.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch13_audio/radioactive_iodine_treatment.mp3"
   },
   {
     "term": "steroids",
     "definition": "A large family of hormone-like substances that share the same fat-soluble chemical structure.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "STEHR-oidz"
+    "pronunciation": "STEHR-oidz",
+    "audioFile": "/public/audio/ch13_audio/steroids.mp3"
   },
   {
     "term": "testosterone",
     "definition": "A steroid hormone secreted by the testicles and the adrenal cortex to stimulate the development of male secondary sex characteristics.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "tes-TOS-teh-rohn"
+    "pronunciation": "tes-TOS-teh-rohn",
+    "audioFile": "/public/audio/ch13_audio/testosterone.mp3"
   },
   {
     "term": "thymectomy",
     "definition": "The surgical removal of the thymus gland.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "thigh-MECK-toh-mee"
+    "pronunciation": "thigh-MECK-toh-mee",
+    "audioFile": "/public/audio/ch13_audio/thymectomy.mp3"
   },
   {
     "term": "thymosin",
     "definition": "A hormone secreted by the thymus that plays an important role in the immune system.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "THIGH-moh-sin"
+    "pronunciation": "THIGH-moh-sin",
+    "audioFile": "/public/audio/ch13_audio/thymosin.mp3"
   },
   {
     "term": "thyroxine",
     "definition": "A hormone secreted by the thyroid gland that regulates the rate of metabolism and affects the growth and rate of function of many other body systems.",
     "category": "Ch13 The Endocrine System",
-    "pronunciation": "thigh-ROCK-sin"
+    "pronunciation": "thigh-ROCK-sin",
+    "audioFile": "/public/audio/ch13_audio/thyroxine.mp3"
   },
   {
     "term": "acr/o",
@@ -6308,151 +6656,176 @@
     "term": "abruptio placentae",
     "definition": "A disorder in which the placenta separates from the uterine wall before the birth of the fetus.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "ah-BRUP-shee-oh plah-SEN-tee"
+    "pronunciation": "ah-BRUP-shee-oh plah-SEN-tee",
+    "audioFile": "/public/audio/ch14_audio/abruptio_placentae.mp3"
   },
   {
     "term": "amenorrhea",
     "definition": "The abnormal absence of menstrual periods for 3 or more months.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "ah-men-oh-REE-ah"
+    "pronunciation": "ah-men-oh-REE-ah",
+    "audioFile": "/public/audio/ch14_audio/amenorrhea.mp3"
   },
   {
     "term": "amniocentesis",
     "definition": "A surgical puncture with a needle to obtain a specimen of amniotic fluid.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "am-nee-oh-sen-TEE-sis"
+    "pronunciation": "am-nee-oh-sen-TEE-sis",
+    "audioFile": "/public/audio/ch14_audio/amniocentesis.mp3"
   },
   {
     "term": "andropause",
     "definition": "Marked by the decrease of the male hormone testosterone, usually beginning in the late 40s.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "AN-droh-pawz"
+    "pronunciation": "AN-droh-pawz",
+    "audioFile": "/public/audio/ch14_audio/andropause.mp3"
   },
   {
     "term": "Apgar score",
     "definition": "A scale of 1 to 10 to evaluate a newborn infant's physical status at 1 and 5 minutes after birth.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch14_audio/apgar_score.mp3"
   },
   {
     "term": "azoospermia",
     "definition": "The absence of sperm in the semen.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "ay-zoh-oh-SPER-mee-ah"
+    "pronunciation": "ay-zoh-oh-SPER-mee-ah",
+    "audioFile": "/public/audio/ch14_audio/azoospermia.mp3"
   },
   {
     "term": "cervical dysplasia",
     "definition": "The presence of precancerous changes in the cells that make up the inner lining of the cervix.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "SER-vih-kal dis-PLAY-see-ah"
+    "pronunciation": "SER-vih-kal dis-PLAY-see-ah",
+    "audioFile": "/public/audio/ch14_audio/cervical_dysplasia.mp3"
   },
   {
     "term": "cervicitis",
     "definition": "An inflammation of the cervix that is usually caused by an infection.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "ser-vih-SIGH-tis"
+    "pronunciation": "ser-vih-SIGH-tis",
+    "audioFile": "/public/audio/ch14_audio/cervicitis.mp3"
   },
   {
     "term": "chlamydia",
     "definition": "A sexually transmitted disease caused by the bacterium *Chlamydia trachomatis*.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "klah-MID-ee-ah"
+    "pronunciation": "klah-MID-ee-ah",
+    "audioFile": "/public/audio/ch14_audio/chlamydia.mp3"
   },
   {
     "term": "chorionic villus sampling",
     "definition": "A diagnostic test to search for genetic abnormalities in the developing fetus.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "kor-ee-ON-ick VIL-us"
+    "pronunciation": "kor-ee-ON-ick VIL-us",
+    "audioFile": "/public/audio/ch14_audio/chorionic_villus_sampling.mp3"
   },
   {
     "term": "colostrum",
     "definition": "A specialized form of milk that delivers essential nutrients and antibodies in a form that the newborn can digest.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "kuh-LOS-trum"
+    "pronunciation": "kuh-LOS-trum",
+    "audioFile": "/public/audio/ch14_audio/colostrum.mp3"
   },
   {
     "term": "colporrhaphy",
     "definition": "The surgical suturing of a tear in the vagina.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "kol-POR-ah-fee"
+    "pronunciation": "kol-POR-ah-fee",
+    "audioFile": "/public/audio/ch14_audio/colporrhaphy.mp3"
   },
   {
     "term": "colposcopy",
     "definition": "The direct visual examination of the tissues of the cervix and vagina.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "kol-POS-koh-pee"
+    "pronunciation": "kol-POS-koh-pee",
+    "audioFile": "/public/audio/ch14_audio/colposcopy.mp3"
   },
   {
     "term": "dysmenorrhea",
     "definition": "Pain caused by uterine cramps during a menstrual period.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "dis-men-oh-REE-ah"
+    "pronunciation": "dis-men-oh-REE-ah",
+    "audioFile": "/public/audio/ch14_audio/dysmenorrhea.mp3"
   },
   {
     "term": "eclampsia",
     "definition": "A more serious form of preeclampsia, characterized by convulsions and sometimes coma.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "eh-KLAMP-see-ah"
+    "pronunciation": "eh-KLAMP-see-ah",
+    "audioFile": "/public/audio/ch14_audio/eclampsia.mp3"
   },
   {
     "term": "ectopic pregnancy",
     "definition": "A pregnancy in which the fertilized egg implants outside the uterus.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "eck-TOP-ick"
+    "pronunciation": "eck-TOP-ick",
+    "audioFile": "/public/audio/ch14_audio/ectopic_pregnancy.mp3"
   },
   {
     "term": "endometriosis",
     "definition": "A condition in which patches of endometrial tissue escape the uterus and become attached to other structures in the pelvic cavity.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "en-doh-mee-tree-OH-sis"
+    "pronunciation": "en-doh-mee-tree-OH-sis",
+    "audioFile": "/public/audio/ch14_audio/endometriosis.mp3"
   },
   {
     "term": "epididymitis",
     "definition": "Inflammation of the epididymis that is frequently caused by the spread of infection from the urethra or the bladder.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "ep-ih-did-ih-MY-tis"
+    "pronunciation": "ep-ih-did-ih-MY-tis",
+    "audioFile": "/public/audio/ch14_audio/epididymitis.mp3"
   },
   {
     "term": "episiotomy",
     "definition": "A surgical incision made into the perineum to enlarge the vaginal orifice to prevent tearing of the tissues during childbirth.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "eh-piz-ee-OT-oh-mee"
+    "pronunciation": "eh-piz-ee-OT-oh-mee",
+    "audioFile": "/public/audio/ch14_audio/episiotomy.mp3"
   },
   {
     "term": "fibroadenoma",
     "definition": "A round, firm, rubbery mass that arises from excess growth of glandular and connective tissue in the breast.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "figh-broh-ad-eh-NOH-mah"
+    "pronunciation": "figh-broh-ad-eh-NOH-mah",
+    "audioFile": "/public/audio/ch14_audio/fibroadenoma.mp3"
   },
   {
     "term": "galactorrhea",
     "definition": "The production of breast milk in women who are not breastfeeding.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "gah-lack-toh-REE-ah"
+    "pronunciation": "gah-lack-toh-REE-ah",
+    "audioFile": "/public/audio/ch14_audio/galactorrhea.mp3"
   },
   {
     "term": "gonorrhea",
     "definition": "A highly contagious sexually transmitted disease caused by the bacterium *Neisseria gonorrhoeae*.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "gon-oh-REE-ah"
+    "pronunciation": "gon-oh-REE-ah",
+    "audioFile": "/public/audio/ch14_audio/gonorrhea.mp3"
   },
   {
     "term": "hematospermia",
     "definition": "The presence of blood in the seminal fluid.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "hee-mah-toh-SPER-mee-ah"
+    "pronunciation": "hee-mah-toh-SPER-mee-ah",
+    "audioFile": "/public/audio/ch14_audio/hematospermia.mp3"
   },
   {
     "term": "hydrocele",
     "definition": "A fluid-filled sac in the scrotum along the spermatic cord leading from the testicles.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "HIGH-droh-seel"
+    "pronunciation": "HIGH-droh-seel",
+    "audioFile": "/public/audio/ch14_audio/hydrocele.mp3"
   },
   {
     "term": "hypomenorrhea",
     "definition": "An unusually small amount of menstrual flow during a shortened regular menstrual period.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "high-poh-men-oh-REE-ah"
+    "pronunciation": "high-poh-men-oh-REE-ah",
+    "audioFile": "/public/audio/ch14_audio/hypomenorrhea.mp3"
   },
   {
     "term": "hysterectomy",
@@ -6464,205 +6837,239 @@
     "term": "hysterosalpingography",
     "definition": "A radiographic examination of the uterus and fallopian tubes.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "hiss-ter-oh-sal-pin-GOG-rah-fee"
+    "pronunciation": "hiss-ter-oh-sal-pin-GOG-rah-fee",
+    "audioFile": "/public/audio/ch14_audio/hysterosalpingography.mp3"
   },
   {
     "term": "hysteroscopy",
     "definition": "The direct visual examination of the interior of the uterus and fallopian tubes.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "hiss-ter-OSS-koh-pee"
+    "pronunciation": "hiss-ter-OSS-koh-pee",
+    "audioFile": "/public/audio/ch14_audio/hysteroscopy.mp3"
   },
   {
     "term": "lactation",
     "definition": "The process of forming and secreting milk from the breasts as nourishment for the infant.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "lack-TAY-shun"
+    "pronunciation": "lack-TAY-shun",
+    "audioFile": "/public/audio/ch14_audio/lactation.mp3"
   },
   {
     "term": "leukorrhea",
     "definition": "A profuse, whitish mucus discharge from the uterus and vagina.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "loo-koh-REE-ah"
+    "pronunciation": "loo-koh-REE-ah",
+    "audioFile": "/public/audio/ch14_audio/leukorrhea.mp3"
   },
   {
     "term": "mastalgia",
     "definition": "Pain in the breast.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "mass-TAL-jee-ah"
+    "pronunciation": "mass-TAL-jee-ah",
+    "audioFile": "/public/audio/ch14_audio/mastalgia.mp3"
   },
   {
     "term": "mastopexy",
     "definition": "A surgical procedure to affix sagging breasts in a more elevated position.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "MAS-toh-peck-see"
+    "pronunciation": "MAS-toh-peck-see",
+    "audioFile": "/public/audio/ch14_audio/mastopexy.mp3"
   },
   {
     "term": "menarche",
     "definition": "The beginning of the menstrual function.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "MEN-ar-kee"
+    "pronunciation": "MEN-ar-kee",
+    "audioFile": "/public/audio/ch14_audio/menarche.mp3"
   },
   {
     "term": "menometrorrhagia",
     "definition": "Excessive uterine bleeding occurring both during the menses and at irregular intervals.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "men-oh-met-roh-RAY-jee-ah"
+    "pronunciation": "men-oh-met-roh-RAY-jee-ah",
+    "audioFile": "/public/audio/ch14_audio/menometrorrhagia.mp3"
   },
   {
     "term": "neonate",
     "definition": "A newborn infant during the first 4 weeks after birth.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "NEE-oh-nayt"
+    "pronunciation": "NEE-oh-nayt",
+    "audioFile": "/public/audio/ch14_audio/neonate.mp3"
   },
   {
     "term": "nullipara",
     "definition": "A woman who has never borne a viable child.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "nuh-LIP-ah-rah"
+    "pronunciation": "nuh-LIP-ah-rah",
+    "audioFile": "/public/audio/ch14_audio/nullipara.mp3"
   },
   {
     "term": "obstetrician",
     "definition": "A physician who specializes in providing medical care to women during pregnancy, childbirth, and immediately thereafter.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "ob-steh-TRISH-un"
+    "pronunciation": "ob-steh-TRISH-un",
+    "audioFile": "/public/audio/ch14_audio/obstetrician.mp3"
   },
   {
     "term": "oligomenorrhea",
     "definition": "The occurrence of infrequent or very light menstruation in a woman with previously normal periods.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "ol-ih-goh-men-oh-REE-ah"
+    "pronunciation": "ol-ih-goh-men-oh-REE-ah",
+    "audioFile": "/public/audio/ch14_audio/oligomenorrhea.mp3"
   },
   {
     "term": "oophorectomy",
     "definition": "The surgical removal of one or both ovaries.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "oh-ahf-oh-RECK-toh-mee"
+    "pronunciation": "oh-ahf-oh-RECK-toh-mee",
+    "audioFile": "/public/audio/ch14_audio/oophorectomy.mp3"
   },
   {
     "term": "orchiectomy",
     "definition": "The surgical removal of one or both testicles.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "or-kee-ECK-toh-mee"
+    "pronunciation": "or-kee-ECK-toh-mee",
+    "audioFile": "/public/audio/ch14_audio/orchiectomy.mp3"
   },
   {
     "term": "orchiopexy",
     "definition": "The repair of an undescended testicle.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "or-kee-oh-PECK-see"
+    "pronunciation": "or-kee-oh-PECK-see",
+    "audioFile": "/public/audio/ch14_audio/orchiopexy.mp3"
   },
   {
     "term": "pelvic inflammatory disease",
     "definition": "An inflammation of the female reproductive organs not associated with surgery or pregnancy.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch14_audio/pelvic_inflammatory_disease.mp3"
   },
   {
     "term": "perimenopause",
     "definition": "The term used to designate the transition phase between regular menstrual periods and no periods at all.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "pehr-ih-MEN-oh-pawz"
+    "pronunciation": "pehr-ih-MEN-oh-pawz",
+    "audioFile": "/public/audio/ch14_audio/perimenopause.mp3"
   },
   {
-    "term": "Peyronie’s disease",
+    "term": "Peyronie\u2019s disease",
     "definition": "A form of sexual dysfunction in which the penis is bent or curved during erection.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "pay-roh-NEEZ"
+    "pronunciation": "pay-roh-NEEZ",
+    "audioFile": "/public/audio/ch14_audio/peyronies_disease.mp3"
   },
   {
     "term": "placenta previa",
     "definition": "The abnormal implantation of the placenta in the lower portion of the uterus.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "plah-SEN-tah PREE-vee-ah"
+    "pronunciation": "plah-SEN-tah PREE-vee-ah",
+    "audioFile": "/public/audio/ch14_audio/placenta_previa.mp3"
   },
   {
     "term": "polycystic ovary syndrome",
     "definition": "A condition caused by a hormonal imbalance in which the ovaries are enlarged by the presence of many cysts.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "pol-ee-SIS-tick"
+    "pronunciation": "pol-ee-SIS-tick",
+    "audioFile": "/public/audio/ch14_audio/polycystic_ovary_syndrome.mp3"
   },
   {
     "term": "postpartum",
     "definition": "The time after childbirth.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "pohst-PAR-tum"
+    "pronunciation": "pohst-PAR-tum",
+    "audioFile": "/public/audio/ch14_audio/postpartum.mp3"
   },
   {
     "term": "preeclampsia",
     "definition": "A complication of pregnancy characterized by hypertension, edema, and proteinuria.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "pree-ee-KLAMP-see-ah"
+    "pronunciation": "pree-ee-KLAMP-see-ah",
+    "audioFile": "/public/audio/ch14_audio/preeclampsia.mp3"
   },
   {
     "term": "priapism",
     "definition": "A painful erection that lasts 4 hours or more but is not accompanied by sexual excitement.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "PRYE-ah-piz-em"
+    "pronunciation": "PRYE-ah-piz-em",
+    "audioFile": "/public/audio/ch14_audio/priapism.mp3"
   },
   {
     "term": "primigravida",
     "definition": "A woman during her first pregnancy.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "prye-mih-GRAV-ih-dah"
+    "pronunciation": "prye-mih-GRAV-ih-dah",
+    "audioFile": "/public/audio/ch14_audio/primigravida.mp3"
   },
   {
     "term": "primipara",
     "definition": "A woman who has borne one viable child.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "prye-MIP-ah-rah"
+    "pronunciation": "prye-MIP-ah-rah",
+    "audioFile": "/public/audio/ch14_audio/primipara.mp3"
   },
   {
     "term": "pruritus vulvae",
     "definition": "A condition of severe itching of the external female genitalia.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "proo-RYE-tus VUL-vee"
+    "pronunciation": "proo-RYE-tus VUL-vee",
+    "audioFile": "/public/audio/ch14_audio/pruritus_vulvae.mp3"
   },
   {
     "term": "salpingo-oophorectomy",
     "definition": "The surgical removal of a fallopian tube and ovary.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "sal-ping-goh-oh-ahf-oh-RECK-toh-mee"
+    "pronunciation": "sal-ping-goh-oh-ahf-oh-RECK-toh-mee",
+    "audioFile": "/public/audio/ch14_audio/salpingo_oophorectomy.mp3"
   },
   {
     "term": "syphilis",
     "definition": "A sexually transmitted disease caused by the bacterium *Treponema pallidum*.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "SIF-ih-lis"
+    "pronunciation": "SIF-ih-lis",
+    "audioFile": "/public/audio/ch14_audio/syphilis.mp3"
   },
   {
     "term": "trichomoniasis",
     "definition": "A sexually transmitted infection caused by the parasite *Trichomonas vaginalis*.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "trick-oh-moh-NYE-ah-sis"
+    "pronunciation": "trick-oh-moh-NYE-ah-sis",
+    "audioFile": "/public/audio/ch14_audio/trichomoniasis.mp3"
   },
   {
     "term": "uterine prolapse",
     "definition": "The condition in which the uterus slides from its normal position and sags into the vagina.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "YOU-ter-ihn proh-LAPS"
+    "pronunciation": "YOU-ter-ihn proh-LAPS",
+    "audioFile": "/public/audio/ch14_audio/uterine_prolapse.mp3"
   },
   {
     "term": "vaginismus",
     "definition": "An involuntary spasm of the pelvic floor muscles, which close off the vagina.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "VAJ-ih-nihz-mis"
+    "pronunciation": "VAJ-ih-nihz-mis",
+    "audioFile": "/public/audio/ch14_audio/vaginismus.mp3"
   },
   {
     "term": "varicocele",
     "definition": "A knot of widening varicose veins in one side of the scrotum.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "VAR-ih-koh-seel"
+    "pronunciation": "VAR-ih-koh-seel",
+    "audioFile": "/public/audio/ch14_audio/varicocele.mp3"
   },
   {
     "term": "vasovasostomy",
     "definition": "A procedure performed as an attempt to restore fertility to a vasectomized male.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "vay-soh-vah-ZOS-toh-mee"
+    "pronunciation": "vay-soh-vah-ZOS-toh-mee",
+    "audioFile": "/public/audio/ch14_audio/vasovasostomy.mp3"
   },
   {
     "term": "vulvodynia",
     "definition": "A painful syndrome of unknown cause, characterized by chronic burning, pain during sexual intercourse, itching, or stinging irritation of the vulva.",
     "category": "Ch14 The Reproductive Systems",
-    "pronunciation": "vul-voh-DIN-ee-ah"
+    "pronunciation": "vul-voh-DIN-ee-ah",
+    "audioFile": "/public/audio/ch14_audio/vulvodynia.mp3"
   },
   {
     "term": "cervic/o",
@@ -6758,19 +7165,22 @@
     "term": "acetaminophen",
     "definition": "An analgesic that reduces pain and fever, but does not relieve inflammation.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "ah-seet-ah-MIN-oh-fen"
+    "pronunciation": "ah-seet-ah-MIN-oh-fen",
+    "audioFile": "/public/audio/ch15_audio/acetaminophen.mp3"
   },
   {
     "term": "acupuncture",
     "definition": "A traditional Chinese medical practice using thin needles inserted into specific points of the body to restore the flow of energy.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "AK-you-punk-cher"
+    "pronunciation": "AK-you-punk-cher",
+    "audioFile": "/public/audio/ch15_audio/acupuncture.mp3"
   },
   {
     "term": "adherence",
     "definition": "The patient's consistency and accuracy in following the prescribed regimen.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch15_audio/adherence.mp3"
   },
   {
     "term": "albuminuria",
@@ -6782,337 +7192,393 @@
     "term": "analgesic",
     "definition": "A class of drugs that relieves pain without affecting consciousness.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "an-al-JEE-zick"
+    "pronunciation": "an-al-JEE-zick",
+    "audioFile": "/public/audio/ch15_audio/analgesic.mp3"
   },
   {
     "term": "antipyretic",
     "definition": "A medication administered to prevent or reduce fever.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "an-tih-pye-RET-ick"
+    "pronunciation": "an-tih-pye-RET-ick",
+    "audioFile": "/public/audio/ch15_audio/antipyretic.mp3"
   },
   {
     "term": "arthrocentesis",
     "definition": "The surgical puncture of the joint space to remove synovial fluid for analysis.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "ar-throh-sen-TEE-sis"
+    "pronunciation": "ar-throh-sen-TEE-sis",
+    "audioFile": "/public/audio/ch15_audio/arthrocentesis.mp3"
   },
   {
     "term": "auscultation",
     "definition": "Listening for sounds within the body, usually with a stethoscope.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "aws-kul-TAY-shun"
+    "pronunciation": "aws-kul-TAY-shun",
+    "audioFile": "/public/audio/ch15_audio/auscultation.mp3"
   },
   {
     "term": "bacteriuria",
     "definition": "The presence of bacteria in the urine.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "back-tee-ree-YOU-ree-ah"
+    "pronunciation": "back-tee-ree-YOU-ree-ah",
+    "audioFile": "/public/audio/ch15_audio/bacteriuria.mp3"
   },
   {
     "term": "bruit",
     "definition": "An abnormal sound or murmur heard during auscultation of an artery.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "BREW-ee"
+    "pronunciation": "BREW-ee",
+    "audioFile": "/public/audio/ch15_audio/bruit.mp3"
   },
   {
     "term": "calciuria",
     "definition": "The presence of calcium in the urine.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "kal-sih-YOU-ree-ah"
+    "pronunciation": "kal-sih-YOU-ree-ah",
+    "audioFile": "/public/audio/ch15_audio/calciuria.mp3"
   },
   {
     "term": "computed tomography",
     "definition": "An imaging technique that uses a computer to produce cross-sectional images of the body.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "toh-MOG-rah-fee"
+    "pronunciation": "toh-MOG-rah-fee",
+    "audioFile": "/public/audio/ch15_audio/computed_tomography.mp3"
   },
   {
     "term": "contraindication",
     "definition": "A factor in the patient's condition that makes the use of a medication or specific treatment dangerous or ill advised.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch15_audio/contraindication.mp3"
   },
   {
     "term": "creatinuria",
     "definition": "An increased concentration of creatinine in the urine.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "kree-at-ih-NEW-ree-ah"
+    "pronunciation": "kree-at-ih-NEW-ree-ah",
+    "audioFile": "/public/audio/ch15_audio/creatinuria.mp3"
   },
   {
     "term": "echocardiography",
     "definition": "An ultrasonic diagnostic procedure used to evaluate the structures and motion of the heart.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "eck-oh-kar-dee-OG-rah-fee"
+    "pronunciation": "eck-oh-kar-dee-OG-rah-fee",
+    "audioFile": "/public/audio/ch15_audio/echocardiography.mp3"
   },
   {
     "term": "endoscope",
     "definition": "A small, flexible tube with a light and a lens on the end used to examine the interior of a body cavity.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "EN-doh-skope"
+    "pronunciation": "EN-doh-skope",
+    "audioFile": "/public/audio/ch15_audio/endoscope.mp3"
   },
   {
     "term": "fluoroscopy",
     "definition": "The visualization of body parts in motion by projecting x-ray images on a luminous fluorescent screen.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "floo-ROS-koh-pee"
+    "pronunciation": "floo-ROS-koh-pee",
+    "audioFile": "/public/audio/ch15_audio/fluoroscopy.mp3"
   },
   {
     "term": "glycosuria",
     "definition": "The presence of glucose in the urine.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "glye-koh-SOO-ree-ah"
+    "pronunciation": "glye-koh-SOO-ree-ah",
+    "audioFile": "/public/audio/ch15_audio/glycosuria.mp3"
   },
   {
     "term": "hematocrit",
     "definition": "The percentage, by volume, of a blood sample occupied by red cells.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "hee-MAT-oh-krit"
+    "pronunciation": "hee-MAT-oh-krit",
+    "audioFile": "/public/audio/ch15_audio/hematocrit.mp3"
   },
   {
     "term": "hematuria",
     "definition": "The presence of blood in the urine.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "hee-mah-TOO-ree-ah"
+    "pronunciation": "hee-mah-TOO-ree-ah",
+    "audioFile": "/public/audio/ch15_audio/hematuria.mp3"
   },
   {
     "term": "hyperthermia",
     "definition": "An abnormally high body temperature.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "high-per-THER-mee-ah"
+    "pronunciation": "high-per-THER-mee-ah",
+    "audioFile": "/public/audio/ch15_audio/hyperthermia.mp3"
   },
   {
     "term": "hypothermia",
     "definition": "An abnormally low body temperature.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "high-poh-THER-mee-ah"
+    "pronunciation": "high-poh-THER-mee-ah",
+    "audioFile": "/public/audio/ch15_audio/hypothermia.mp3"
   },
   {
     "term": "idiosyncratic reaction",
     "definition": "An unexpected reaction to a drug that is peculiar to the individual.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "id-ee-oh-sin-KRAT-ick"
+    "pronunciation": "id-ee-oh-sin-KRAT-ick",
+    "audioFile": "/public/audio/ch15_audio/idiosyncratic_reaction.mp3"
   },
   {
     "term": "interventional radiology",
     "definition": "The use of radiographic imaging to guide a procedure such as a biopsy.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch15_audio/interventional_radiology.mp3"
   },
   {
     "term": "intradermal injection",
     "definition": "The administration of medication by injection into the middle layers of the skin.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch15_audio/intradermal_injection.mp3"
   },
   {
     "term": "intramuscular injection",
     "definition": "The administration of medication by injection directly into muscle tissue.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch15_audio/intramuscular_injection.mp3"
   },
   {
     "term": "intravenous injection",
     "definition": "The administration of medication by injection directly into a vein.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch15_audio/intravenous_injection.mp3"
   },
   {
     "term": "ketonuria",
     "definition": "The presence of ketones in the urine.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "kee-toh-NEW-ree-ah"
+    "pronunciation": "kee-toh-NEW-ree-ah",
+    "audioFile": "/public/audio/ch15_audio/ketonuria.mp3"
   },
   {
     "term": "laparoscopy",
     "definition": "The visual examination of the interior of the abdomen with the use of a laparoscope.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "lap-ah-ROS-koh-pee"
+    "pronunciation": "lap-ah-ROS-koh-pee",
+    "audioFile": "/public/audio/ch15_audio/laparoscopy.mp3"
   },
   {
     "term": "lithotomy position",
     "definition": "An examination position in which the patient is lying on the back with feet and legs raised and supported in stirrups.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "lih-THOT-oh-mee"
+    "pronunciation": "lih-THOT-oh-mee",
+    "audioFile": "/public/audio/ch15_audio/lithotomy_position.mp3"
   },
   {
     "term": "magnetic resonance imaging",
     "definition": "An imaging technique that uses radio waves and a strong magnetic field to create signals that are sent to a computer and converted into images of any plane through the body.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch15_audio/magnetic_resonance_imaging.mp3"
   },
   {
     "term": "ophthalmoscope",
     "definition": "An instrument used to examine the interior of the eye.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "ahf-THAL-moh-skope"
+    "pronunciation": "ahf-THAL-moh-skope",
+    "audioFile": "/public/audio/ch15_audio/ophthalmoscope.mp3"
   },
   {
     "term": "otoscope",
     "definition": "An instrument used to visually examine the external ear canal and tympanic membrane.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "OH-toh-skope"
+    "pronunciation": "OH-toh-skope",
+    "audioFile": "/public/audio/ch15_audio/otoscope.mp3"
   },
   {
     "term": "palliative",
     "definition": "A substance that eases the pain or severity of the symptoms of a disease, but does not cure it.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "PAL-ee-ay-tiv"
+    "pronunciation": "PAL-ee-ay-tiv",
+    "audioFile": "/public/audio/ch15_audio/palliative.mp3"
   },
   {
     "term": "parenteral",
     "definition": "Taken into the body or administered in a manner other than through the digestive tract.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "pah-REN-ter-al"
+    "pronunciation": "pah-REN-ter-al",
+    "audioFile": "/public/audio/ch15_audio/parenteral.mp3"
   },
   {
     "term": "percussion",
     "definition": "A diagnostic procedure designed to determine the density of a body part by the sound produced by tapping the surface with the fingers.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "per-KUSH-un"
+    "pronunciation": "per-KUSH-un",
+    "audioFile": "/public/audio/ch15_audio/percussion.mp3"
   },
   {
     "term": "perfusion",
     "definition": "The flow of blood through the vessels of an organ.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "per-FYOU-zuhn"
+    "pronunciation": "per-FYOU-zuhn",
+    "audioFile": "/public/audio/ch15_audio/perfusion.mp3"
   },
   {
     "term": "pericardiocentesis",
     "definition": "The puncture of the pericardial sac for the purpose of removing fluid.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "pehr-ih-kar-dee-oh-sen-TEE-sis"
+    "pronunciation": "pehr-ih-kar-dee-oh-sen-TEE-sis",
+    "audioFile": "/public/audio/ch15_audio/pericardiocentesis.mp3"
   },
   {
     "term": "phlebotomy",
     "definition": "The puncture of a vein for the purpose of drawing blood.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "fleh-BOT-oh-mee"
+    "pronunciation": "fleh-BOT-oh-mee",
+    "audioFile": "/public/audio/ch15_audio/phlebotomy.mp3"
   },
   {
     "term": "placebo",
     "definition": "An inactive substance administered only for its suggestive effects.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "plah-SEE-boh"
+    "pronunciation": "plah-SEE-boh",
+    "audioFile": "/public/audio/ch15_audio/placebo.mp3"
   },
   {
     "term": "positron emission tomography",
     "definition": "An imaging technique that produces three-dimensional images of body tissues.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch15_audio/positron_emission_tomography.mp3"
   },
   {
     "term": "prone position",
     "definition": "An examination position in which the patient is lying on the abdomen with the face down.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch15_audio/prone_position.mp3"
   },
   {
     "term": "proteinuria",
     "definition": "The presence of an abnormal amount of protein in the urine.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "proh-teen-UHR-ree-ah"
+    "pronunciation": "proh-teen-UHR-ree-ah",
+    "audioFile": "/public/audio/ch15_audio/proteinuria.mp3"
   },
   {
     "term": "pyuria",
     "definition": "The presence of pus in the urine.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "pye-YOU-ree-ah"
+    "pronunciation": "pye-YOU-ree-ah",
+    "audioFile": "/public/audio/ch15_audio/pyuria.mp3"
   },
   {
     "term": "radiolucent",
     "definition": "A substance that allows x-rays to pass through and appears black or dark gray on the resulting film.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "ray-dee-oh-LOO-sent"
+    "pronunciation": "ray-dee-oh-LOO-sent",
+    "audioFile": "/public/audio/ch15_audio/radiolucent.mp3"
   },
   {
     "term": "radiopaque",
     "definition": "A substance that does not allow x-rays to pass through and appears white or light gray on the resulting film.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "ray-dee-oh-PAYK"
+    "pronunciation": "ray-dee-oh-PAYK",
+    "audioFile": "/public/audio/ch15_audio/radiopaque.mp3"
   },
   {
     "term": "rales",
     "definition": "An abnormal crackle-like lung sound heard through a stethoscope during inspiration.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "RAHLZ"
+    "pronunciation": "RAHLZ",
+    "audioFile": "/public/audio/ch15_audio/rales.mp3"
   },
   {
     "term": "recumbent",
     "definition": "Any position in which the patient is lying down.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "ree-KUM-bent"
+    "pronunciation": "ree-KUM-bent",
+    "audioFile": "/public/audio/ch15_audio/recumbent.mp3"
   },
   {
     "term": "rhonchi",
     "definition": "Coarse rattling sounds that are somewhat like snoring, usually caused by secretions in the bronchial airways.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "RONG-kye"
+    "pronunciation": "RONG-kye",
+    "audioFile": "/public/audio/ch15_audio/rhonchi.mp3"
   },
   {
-    "term": "Sims’ position",
+    "term": "Sims\u2019 position",
     "definition": "An examination position in which the patient is lying on the left side with the right knee and thigh drawn up with the left arm placed along the back.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch15_audio/sims_position.mp3"
   },
   {
     "term": "single photon emission computed tomography",
     "definition": "A nuclear imaging technique that produces three-dimensional computer-reconstructed images showing perfusion through tissues and organs.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch15_audio/single_photon_emission_computed_tomography.mp3"
   },
   {
     "term": "speculum",
     "definition": "An instrument used to enlarge the opening of any canal or cavity to facilitate inspection of its interior.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "SPECK-you-lum"
+    "pronunciation": "SPECK-you-lum",
+    "audioFile": "/public/audio/ch15_audio/speculum.mp3"
   },
   {
     "term": "sphygmomanometer",
     "definition": "An instrument used to measure blood pressure.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "sfig-moh-mah-NOM-eh-ter"
+    "pronunciation": "sfig-moh-mah-NOM-eh-ter",
+    "audioFile": "/public/audio/ch15_audio/sphygmomanometer.mp3"
   },
   {
     "term": "stethoscope",
     "definition": "An instrument used to listen to sounds within the body.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "STETH-oh-skope"
+    "pronunciation": "STETH-oh-skope",
+    "audioFile": "/public/audio/ch15_audio/stethoscope.mp3"
   },
   {
     "term": "stridor",
     "definition": "An abnormal, high-pitched, musical breathing sound caused by a blockage in the throat or larynx.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "STRYE-dor"
+    "pronunciation": "STRYE-dor",
+    "audioFile": "/public/audio/ch15_audio/stridor.mp3"
   },
   {
     "term": "subcutaneous injection",
     "definition": "The administration of medication by injection into the fatty layer just below the skin.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "sub-kyou-TAY-nee-us"
+    "pronunciation": "sub-kyou-TAY-nee-us",
+    "audioFile": "/public/audio/ch15_audio/subcutaneous_injection.mp3"
   },
   {
     "term": "transdermal",
     "definition": "The administration of medication through the unbroken skin so that it is absorbed continuously to produce a systemic effect.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": null
+    "pronunciation": null,
+    "audioFile": "/public/audio/ch15_audio/transdermal.mp3"
   },
   {
     "term": "transesophageal echocardiography",
     "definition": "An ultrasonic imaging technique used to evaluate heart structures by inserting a transducer into the esophagus.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "trans-eh-sof-ah-JEE-al eck-oh-kar-dee-OG-rah-fee"
+    "pronunciation": "trans-eh-sof-ah-JEE-al eck-oh-kar-dee-OG-rah-fee",
+    "audioFile": "/public/audio/ch15_audio/transesophageal_echocardiography.mp3"
   },
   {
     "term": "ultrasonography",
     "definition": "The imaging of deep body structures by recording the echoes of sound wave pulses.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "ul-trah-son-OG-rah-fee"
+    "pronunciation": "ul-trah-son-OG-rah-fee",
+    "audioFile": "/public/audio/ch15_audio/ultrasonography.mp3"
   },
   {
     "term": "urinalysis",
     "definition": "The examination of urine to determine the presence of abnormal elements.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "you-rih-NAL-ih-sis"
+    "pronunciation": "you-rih-NAL-ih-sis",
+    "audioFile": "/public/audio/ch15_audio/urinalysis.mp3"
   },
   {
     "term": "albumin/o",
