@@ -1351,11 +1351,11 @@
     "audioFile": "/public/audio/ch3_audio/osteoporotic_hip_fracture.mp3"
   },
   {
-    "term": "Paget\u2019s disease",
+    "term": "Paget's disease",
     "definition": "A bone disease of unknown cause characterized by the excessive breakdown of bone tissue, followed by abnormal bone formation.",
     "category": "Ch3 The Skeletal System",
     "pronunciation": "PAJ-its",
-    "audioFile": "/public/audio/ch3_audio/paget\u2019s_disease.mp3"
+    "audioFile": "/public/audio/ch3_audio/pagets_disease.mp3"
   },
   {
     "term": "pathologic fracture",
@@ -1688,7 +1688,7 @@
   },
   {
     "term": "exercise physiologist",
-    "definition": "A specialist who works under a physician\u2019s supervision to develop exercise programs to promote physical fitness.",
+    "definition": "A specialist who works under a physician's supervision to develop exercise programs to promote physical fitness.",
     "category": "Ch4 The Muscular System",
     "pronunciation": "fiz-ee-OL-oh-jist",
     "audioFile": "/public/audio/ch4_audio/exercise_physiologist.mp3"
@@ -2149,7 +2149,7 @@
   },
   {
     "term": "automated external defibrillator",
-    "definition": "A device that automatically samples the heart\u2019s electrical rhythms and delivers an electrical shock if necessary.",
+    "definition": "A device that automatically samples the heart's electrical rhythms and delivers an electrical shock if necessary.",
     "category": "Ch5 The Cardiovascular System",
     "pronunciation": "dee-FIB-rih-lay-ter",
     "audioFile": "/public/audio/ch5_audio/automated_external_defibrillator.mp3"
@@ -2226,7 +2226,7 @@
   },
   {
     "term": "defibrillation",
-    "definition": "The use of electrical shock to restore the heart\u2019s normal rhythm.",
+    "definition": "The use of electrical shock to restore the heart's normal rhythm.",
     "category": "Ch5 The Cardiovascular System",
     "pronunciation": "dee-fih-brih-LAY-shun",
     "audioFile": "/public/audio/ch5_audio/defibrillation.mp3"
@@ -2379,11 +2379,11 @@
     "audioFile": "/public/audio/ch5_audio/phlebitis.mp3"
   },
   {
-    "term": "Raynaud\u2019s disease",
+    "term": "Raynaud's disease",
     "definition": "A peripheral arterial occlusive disease in which intermittent attacks are triggered by cold or stress.",
     "category": "Ch5 The Cardiovascular System",
     "pronunciation": "ray-NOHZ",
-    "audioFile": "/public/audio/ch5_audio/raynaud\u2019s_disease.mp3"
+    "audioFile": "/public/audio/ch5_audio/raynauds_disease.mp3"
   },
   {
     "term": "sepsis",
@@ -2630,7 +2630,7 @@
     "audioFile": "/public/audio/ch6_audio/antigen.mp3"
   },
   {
-    "term": "antigen–antibody reaction",
+    "term": "antigen antibody reaction",
     "definition": "The immune response involving the binding of antigens to antibodies.",
     "category": "Ch6 Lymphatic and Immune Systems",
     "pronunciation": null,
@@ -4219,7 +4219,7 @@
     "audioFile": "/public/audio/ch9_audio/edema.mp3"
   },
   {
-    "term": "end-stage renal disease",
+    "term": "end stage renal disease",
     "definition": "The final stage of chronic kidney disease.",
     "category": "Ch9 The Urinary System",
     "pronunciation": null,
@@ -4624,7 +4624,7 @@
     "audioFile": "/public/audio/ch10_audio/acrophobia.mp3"
   },
   {
-    "term": "Alzheimer\u2019s disease",
+    "term": "Alzheimer's disease",
     "definition": "A progressive disorder that causes brain cells to waste away and die, leading to memory loss and cognitive decline.",
     "category": "Ch10 The Nervous System",
     "pronunciation": "ALTZ-high-merz",
@@ -4673,7 +4673,7 @@
     "audioFile": "/public/audio/ch10_audio/autism_spectrum_disorder.mp3"
   },
   {
-    "term": "Bell\u2019s palsy",
+    "term": "Bell's palsy",
     "definition": "Temporary paralysis of the seventh cranial nerve causing facial drooping on one side.",
     "category": "Ch10 The Nervous System",
     "pronunciation": "PAWL-zee",
@@ -4959,7 +4959,7 @@
     "audioFile": "/public/audio/ch10_audio/paresthesia.mp3"
   },
   {
-    "term": "Parkinson\u2019s disease",
+    "term": "Parkinson's disease",
     "definition": "A chronic degenerative central nervous disorder characterized by fine muscle tremors, rigidity, and a slow or shuffling gait.",
     "category": "Ch10 The Nervous System",
     "pronunciation": null,
@@ -4980,7 +4980,7 @@
     "audioFile": "/public/audio/ch10_audio/post_traumatic_stress_disorder.mp3"
   },
   {
-    "term": "Reye\u2019s syndrome",
+    "term": "Reye's syndrome",
     "definition": "A potentially serious or deadly disorder in children that is characterized by vomiting and confusion, often after a viral infection.",
     "category": "Ch10 The Nervous System",
     "pronunciation": "RIZE SIN-drohm",
@@ -6151,7 +6151,7 @@
     "audioFile": "/public/audio/ch13_audio/acromegaly.mp3"
   },
   {
-    "term": "Addison\u2019s disease",
+    "term": "Addison's disease",
     "definition": "A condition that occurs when the adrenal glands do not produce enough of the hormones cortisol or aldosterone.",
     "category": "Ch13 The Endocrine System",
     "pronunciation": "AD-ih-sonz",
@@ -6207,7 +6207,7 @@
     "audioFile": "/public/audio/ch13_audio/cretinism.mp3"
   },
   {
-    "term": "Cushing\u2019s syndrome",
+    "term": "Cushing's syndrome",
     "definition": "A condition caused by prolonged exposure to high levels of cortisol.",
     "category": "Ch13 The Endocrine System",
     "pronunciation": "KUSH-ingz",
@@ -6311,7 +6311,7 @@
     "audioFile": "/public/audio/ch13_audio/glucose.mp3"
   },
   {
-    "term": "Graves\u2019 disease",
+    "term": "Graves' disease",
     "definition": "A disorder of unknown cause in which the immune system attacks the thyroid gland and stimulates it to make excessive amounts of thyroid hormone.",
     "category": "Ch13 The Endocrine System",
     "pronunciation": "GRAYVZ",
@@ -6332,7 +6332,7 @@
     "audioFile": "/public/audio/ch13_audio/gynecomastia.mp3"
   },
   {
-    "term": "Hashimoto\u2019s disease",
+    "term": "Hashimoto's disease",
     "definition": "An autoimmune disease in which the body's own antibodies attack and destroy the cells of the thyroid gland.",
     "category": "Ch13 The Endocrine System",
     "pronunciation": "hah-shee-MOH-tohz",
@@ -6515,7 +6515,7 @@
   },
   {
     "term": "puberty",
-    "definition": "The process of physical changes by which a child\u2019s body becomes an adult body capable of reproducing.",
+    "definition": "The process of physical changes by which a child's body becomes an adult body capable of reproducing.",
     "category": "Ch13 The Endocrine System",
     "pronunciation": "PYU-ber-tee",
     "audioFile": "/public/audio/ch13_audio/puberty.mp3"
@@ -6953,7 +6953,7 @@
     "audioFile": "/public/audio/ch14_audio/perimenopause.mp3"
   },
   {
-    "term": "Peyronie\u2019s disease",
+    "term": "Peyronie's disease",
     "definition": "A form of sexual dysfunction in which the penis is bent or curved during erection.",
     "category": "Ch14 The Reproductive Systems",
     "pronunciation": "pay-roh-NEEZ",
@@ -7016,7 +7016,7 @@
     "audioFile": "/public/audio/ch14_audio/pruritus_vulvae.mp3"
   },
   {
-    "term": "salpingo-oophorectomy",
+    "term": "salpingo oophorectomy",
     "definition": "The surgical removal of a fallopian tube and ovary.",
     "category": "Ch14 The Reproductive Systems",
     "pronunciation": "sal-ping-goh-oh-ahf-oh-RECK-toh-mee",
@@ -7186,7 +7186,8 @@
     "term": "albuminuria",
     "definition": "The presence of the protein albumin in the urine, typically a sign of kidney disease.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
-    "pronunciation": "al-byou-mih-NEW-ree-ah"
+    "pronunciation": "al-byou-mih-NEW-ree-ah",
+    "audioFile": "/public/audio/ch15_audio/albuminuria.mp3"
   },
   {
     "term": "analgesic",
@@ -7504,7 +7505,7 @@
     "audioFile": "/public/audio/ch15_audio/rhonchi.mp3"
   },
   {
-    "term": "Sims\u2019 position",
+    "term": "Sims' position",
     "definition": "An examination position in which the patient is lying on the left side with the right knee and thigh drawn up with the left arm placed along the back.",
     "category": "Ch15 Diagnostic, Nuclear, Pharma",
     "pronunciation": null,
