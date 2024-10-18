@@ -899,7 +899,7 @@
     "definition": "The cavity that surrounds and protects the heart and lungs; also known as the chest cavity.",
     "category": "Ch2 The Human Body in Health and Disease",
     "pronunciation": "thoh-RAS-ick",
-    "audioFile": "/public/audio/ch2_audio/thoracic.mp3"
+    "audioFile": "/public/audio/ch2_audio/thoracic_cavity.mp3"
   },
   {
     "term": "transverse plane",
@@ -1880,7 +1880,7 @@
     "definition": "A muscle disease characterized by the simultaneous inflammation and weakening of voluntary muscles in many parts of the body.",
     "category": "Ch4 The Muscular System",
     "pronunciation": "pol-ee-my-oh-SIGH-tis",
-    "audioFile": "/public/audio/ch4_audio/poliomyelitis.mp3"
+    "audioFile": "/public/audio/ch4_audio/polymyositis.mp3"
   },
   {
     "term": "pronation",
@@ -2887,7 +2887,7 @@
     "audioFile": "/public/audio/ch6_audio/myosarcoma.mp3"
   },
   {
-    "term": "non-Hodgkins lymphoma",
+    "term": "non Hodgkins lymphoma",
     "definition": "A group of lymphomas that do not contain Reed-Sternberg cells.",
     "category": "Ch6 Lymphatic and Immune Systems",
     "pronunciation": "non-HODJ-kinz lim-FOH-mah",
@@ -3840,7 +3840,7 @@
     "definition": "A surgically placed feeding tube from the exterior of the body directly into the stomach.",
     "category": "Ch8 The Digestive System",
     "pronunciation": "gas-TROS-toh-mee",
-    "audioFile": "/public/audio/ch8_audio/gastrostomy.mp3"
+    "audioFile": "/public/audio/ch8_audio/gastrostomy_tube.mp3"
   },
   {
     "term": "hematemesis",
@@ -4673,7 +4673,7 @@
     "audioFile": "/public/audio/ch10_audio/autism_spectrum_disorder.mp3"
   },
   {
-    "term": "Bell's palsy",
+    "term": "Bells palsy",
     "definition": "Temporary paralysis of the seventh cranial nerve causing facial drooping on one side.",
     "category": "Ch10 The Nervous System",
     "pronunciation": "PAWL-zee",
@@ -4959,7 +4959,7 @@
     "audioFile": "/public/audio/ch10_audio/paresthesia.mp3"
   },
   {
-    "term": "Parkinson's disease",
+    "term": "Parkinsons disease",
     "definition": "A chronic degenerative central nervous disorder characterized by fine muscle tremors, rigidity, and a slow or shuffling gait.",
     "category": "Ch10 The Nervous System",
     "pronunciation": null,
@@ -4973,14 +4973,14 @@
     "audioFile": "/public/audio/ch10_audio/peripheral_neuropathy.mp3"
   },
   {
-    "term": "post-traumatic stress disorder",
+    "term": "post traumatic stress disorder",
     "definition": "A mental health condition that's triggered by a terrifying event, either by experiencing it or witnessing it.",
     "category": "Ch10 The Nervous System",
     "pronunciation": null,
     "audioFile": "/public/audio/ch10_audio/post_traumatic_stress_disorder.mp3"
   },
   {
-    "term": "Reye's syndrome",
+    "term": "Reyes syndrome",
     "definition": "A potentially serious or deadly disorder in children that is characterized by vomiting and confusion, often after a viral infection.",
     "category": "Ch10 The Nervous System",
     "pronunciation": "RIZE SIN-drohm",
@@ -5864,7 +5864,7 @@
     "definition": "A type of skin cancer that occurs in the melanocytes.",
     "category": "Ch12 Skin: The Integumentary System",
     "pronunciation": "mel-ah-NOH-mah",
-    "audioFile": "/public/audio/ch12_audio/melanoma.mp3"
+    "audioFile": "/public/audio/ch12_audio/malignant_melanoma.mp3"
   },
   {
     "term": "melasma",
@@ -6152,7 +6152,7 @@
     "audioFile": "/public/audio/ch13_audio/acromegaly.mp3"
   },
   {
-    "term": "Addison's disease",
+    "term": "Addisons disease",
     "definition": "A condition that occurs when the adrenal glands do not produce enough of the hormones cortisol or aldosterone.",
     "category": "Ch13 The Endocrine System",
     "pronunciation": "AD-ih-sonz",
